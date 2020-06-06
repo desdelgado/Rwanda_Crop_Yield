@@ -1,0 +1,1424 @@
+,LSF_ID,Province,District,Plot No,Plot area(m^2),Organic fertilizer,organic fertilizer used (kg),inorganic fertilizer,inorganic fertilizer type,inorganic fertilizer used (kg),source inorganic fertilizer
+0,12001.0,Kigali,Gasabo,1.0,5474.15359957,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1,12001.0,Kigali,Gasabo,2.0,43546.9430287,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+2,12001.0,Kigali,Gasabo,3.0,37865.1343842,1,10000.0,1,DAP,118900.0,Government(MINAGRI/RAB/NAEB/District
+3,12001.0,Kigali,Gasabo,4.0,30846.7016506,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+4,12001.0,Kigali,Gasabo,5.0,44567.7840859,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+5,12001.0,Kigali,Gasabo,5.0,44567.7840859,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+6,12001.0,Kigali,Gasabo,5.0,44567.7840859,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+7,12001.0,Kigali,Gasabo,6.0,43255.7991067,1,25000.0,1,DAP,137350.0,Government(MINAGRI/RAB/NAEB/District
+8,12001.0,Kigali,Gasabo,8.0,169087.335806,1,92000.0,1,DAP,5494.0,Government(MINAGRI/RAB/NAEB/District
+9,12001.0,Kigali,Gasabo,9.0,3714.10882293,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+10,12001.0,Kigali,Gasabo,10.0,20716.3283363,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+11,12001.0,Kigali,Gasabo,11.0,19814.1256268,1,2500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+12,12001.0,Kigali,Gasabo,11.0,19814.1256268,1,2500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+13,12001.0,Kigali,Gasabo,11.0,19814.1256268,1,2500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+14,12001.0,Kigali,Gasabo,17.0,21193.749962,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+15,12001.0,Kigali,Gasabo,18.0,6223.42612839,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+16,12001.0,Kigali,Gasabo,27.0,7880.12638644,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+17,12001.0,Kigali,Gasabo,29.0,57698.6890444,1,15000.0,1,DAP,435.0,Government(MINAGRI/RAB/NAEB/District
+18,12001.0,Kigali,Gasabo,30.0,65585.0262224,1,17500.0,1,DAP,207870.0,Government(MINAGRI/RAB/NAEB/District
+19,12001.0,Kigali,Gasabo,32.0,3761.81803918,1,1000.0,1,DAP,30.0,Government(MINAGRI/RAB/NAEB/District
+20,12001.0,Kigali,Gasabo,33.0,5528.74753489,1,1300.0,1,DAP,30.0,Government(MINAGRI/RAB/NAEB/District
+21,12001.0,Kigali,Gasabo,38.0,1469.62389604,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+22,12002.0,Kigali,Gasabo,5.0,242249.752812,1,7230.0,1,DAP,1482150.0,Market
+23,12003.0,Kigali,Gasabo,3.0,31822.938813,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+24,12003.0,Kigali,Gasabo,6.0,9098.54610258,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+25,12003.0,Kigali,Gasabo,8.0,105113.149787,1,420400.0,1,NPK 17-17-17,750.0,Government & Market
+26,12003.0,Kigali,Gasabo,9.0,92874.0422306,1,371600.0,1,NPK 17-17-17,663.0,Government & Market
+27,12003.0,Kigali,Gasabo,12.0,42608.3315745,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+28,12004.0,Kigali,Gasabo,1.0,49809.0121181,1,4000.0,1,DAP,205000.0,Market
+29,12004.0,Kigali,Gasabo,2.0,6968.0532932,1,2410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+30,12004.0,Kigali,Gasabo,2.0,6968.0532932,1,2410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+31,12004.0,Kigali,Gasabo,2.0,6968.0532932,1,2410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+32,12004.0,Kigali,Gasabo,4.0,32379.2409466,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+33,12004.0,Kigali,Gasabo,4.0,32379.2409466,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+34,12004.0,Kigali,Gasabo,4.0,32379.2409466,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+35,12005.0,Kigali,Gasabo,5.0,5519.45674314,1,400.0,1,DAP,10250.0,Market
+36,12005.0,Kigali,Gasabo,6.0,27259.8149659,1,200.0,1,DAP,16400.0,Market
+37,12005.0,Kigali,Gasabo,9.0,2195.36454934,1,2660.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+38,12005.0,Kigali,Gasabo,9.0,2195.36454934,1,2660.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+39,12005.0,Kigali,Gasabo,9.0,2195.36454934,1,2660.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+40,12005.0,Kigali,Gasabo,10.0,702.432361118,1,100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+41,12005.0,Kigali,Gasabo,10.0,702.432361118,1,100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+42,12005.0,Kigali,Gasabo,10.0,702.432361118,1,100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+43,12005.0,Kigali,Gasabo,11.0,3277.25603614,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+44,12005.0,Kigali,Gasabo,11.0,3277.25603614,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+45,12005.0,Kigali,Gasabo,11.0,3277.25603614,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+46,12005.0,Kigali,Gasabo,13.0,4229.1010937,1,600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+47,12005.0,Kigali,Gasabo,13.0,4229.1010937,1,600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+48,12005.0,Kigali,Gasabo,13.0,4229.1010937,1,600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+49,12005.0,Kigali,Gasabo,15.0,99785.819582,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+50,12005.0,Kigali,Gasabo,15.0,99785.819582,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+51,12005.0,Kigali,Gasabo,15.0,99785.819582,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+52,12005.0,Kigali,Gasabo,16.0,608.883018024,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+53,12005.0,Kigali,Gasabo,16.0,608.883018024,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+54,12005.0,Kigali,Gasabo,16.0,608.883018024,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+55,12005.0,Kigali,Gasabo,18.0,0.0,1,2000.0,1,DAP,20500.0,Market
+56,12005.0,Kigali,Gasabo,19.0,16096.1727637,0,0.0,1,DAP,20500.0,Government(MINAGRI/RAB/NAEB/District
+57,12006.0,Kigali,Gasabo,1.0,70123.4843402,1,2000.0,1,DAP,1000.0,Government(MINAGRI/RAB/NAEB/District
+58,12007.0,South,Gasabo,1.0,2125225.25,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+59,12008.0,Kigali,Gasabo,1.0,10300.3184824,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+60,12008.0,Kigali,Gasabo,2.0,13079.1286102,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+61,12008.0,Kigali,Gasabo,3.0,1108.3578025,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+62,12008.0,Kigali,Gasabo,4.0,1468.31276395,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+63,12008.0,Kigali,Gasabo,5.0,79166.2312792,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+64,12008.0,Kigali,Gasabo,7.0,1032.66792818,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+65,12008.0,Kigali,Gasabo,8.0,914.846029406,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+66,12008.0,Kigali,Gasabo,9.0,3414.41074327,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+67,12008.0,Kigali,Gasabo,10.0,3153.45224474,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+68,12008.0,Kigali,Gasabo,11.0,374.472220802,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+69,12008.0,Kigali,Gasabo,15.0,1151.44497636,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+70,12008.0,Kigali,Gasabo,16.0,2125.84185419,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+71,12008.0,Kigali,Gasabo,17.0,763.709619998,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+72,12008.0,Kigali,Gasabo,17.0,763.709619998,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+73,12008.0,Kigali,Gasabo,17.0,763.709619998,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+74,12009.0,Kigali,Gasabo,4.0,219911.338852,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+75,12009.0,Kigali,Gasabo,4.0,219911.338852,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+76,12009.0,Kigali,Gasabo,4.0,219911.338852,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+77,12010.0,Kigali,Gasabo,2.0,1154.18542146,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+78,12010.0,Kigali,Gasabo,3.0,5130.09858287,1,3600.0,1,DAP,14350.0,Government(MINAGRI/RAB/NAEB/District
+79,12010.0,Kigali,Gasabo,4.0,657.150264694,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+80,12010.0,Kigali,Gasabo,5.0,14290.3867282,1,2165.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+81,12010.0,Kigali,Gasabo,5.0,14290.3867282,1,2165.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+82,12010.0,Kigali,Gasabo,5.0,14290.3867282,1,2165.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+83,12010.0,Kigali,Gasabo,7.0,5302.59963295,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+84,12010.0,Kigali,Gasabo,9.0,870.404418441,1,1500.0,1,Urea,1775.0,Government(MINAGRI/RAB/NAEB/District
+85,12010.0,Kigali,Gasabo,9.0,870.404418441,1,1500.0,1,DAP,4100.0,Government(MINAGRI/RAB/NAEB/District
+86,12010.0,Kigali,Gasabo,11.0,1661.68813321,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+87,12010.0,Kigali,Gasabo,13.0,256.737967632,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+88,12010.0,Kigali,Gasabo,15.0,3527.50595516,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+89,12010.0,Kigali,Gasabo,15.0,3527.50595516,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+90,12010.0,Kigali,Gasabo,15.0,3527.50595516,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+91,12010.0,Kigali,Gasabo,16.0,4931.71357167,1,1350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+92,12010.0,Kigali,Gasabo,16.0,4931.71357167,1,1350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+93,12010.0,Kigali,Gasabo,16.0,4931.71357167,1,1350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+94,12010.0,Kigali,Gasabo,17.0,641.297579514,1,450.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+95,12010.0,Kigali,Gasabo,17.0,641.297579514,1,450.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+96,12010.0,Kigali,Gasabo,17.0,641.297579514,1,450.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+97,12010.0,Kigali,Gasabo,18.0,924.631209245,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+98,12010.0,Kigali,Gasabo,19.0,410.037229194,1,150.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+99,12010.0,Kigali,Gasabo,19.0,410.037229194,1,150.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+100,12010.0,Kigali,Gasabo,19.0,410.037229194,1,150.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+101,12010.0,Kigali,Gasabo,20.0,16386.5282411,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+102,12010.0,Kigali,Gasabo,21.0,1207.07391005,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+103,12010.0,Kigali,Gasabo,22.0,548.798919534,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+104,12010.0,Kigali,Gasabo,24.0,8103.5077236,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+105,12010.0,Kigali,Gasabo,25.0,14693.5136434,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+106,12010.0,Kigali,Gasabo,27.0,480.369632721,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+107,12010.0,Kigali,Gasabo,30.0,1971.58499752,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+108,12010.0,Kigali,Gasabo,30.0,1971.58499752,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+109,12010.0,Kigali,Gasabo,30.0,1971.58499752,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+110,12010.0,Kigali,Gasabo,33.0,2942.99257804,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+111,12010.0,Kigali,Gasabo,36.0,2145.61963684,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+112,12010.0,Kigali,Gasabo,37.0,2155.90551787,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+113,12010.0,Kigali,Gasabo,38.0,88902.668013,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+114,12010.0,Kigali,Gasabo,43.0,1587.28545664,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+115,13001.0,Kigali,Kicukiro,1.0,49521.7185128,1,4410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+116,13001.0,Kigali,Kicukiro,1.0,49521.7185128,1,4410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+117,13001.0,Kigali,Kicukiro,1.0,49521.7185128,1,4410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+118,13001.0,Kigali,Kicukiro,3.0,12313.9592992,1,2000.0,1,NPK 17-17-17,15000.0,Government(MINAGRI/RAB/NAEB/District
+119,13001.0,Kigali,Kicukiro,7.0,2251.63113444,1,520.0,1,NPK 17-17-17,4800.0,Market
+120,13002.0,Kigali,Kicukiro,1.0,25728.7348378,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+121,13002.0,Kigali,Kicukiro,2.0,880.093763267,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+122,13002.0,Kigali,Kicukiro,4.0,6416.12943689,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+123,13002.0,Kigali,Kicukiro,5.0,41663.0630456,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+124,13003.0,Kigali,Kicukiro,1.0,3492.96941898,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+125,13003.0,Kigali,Kicukiro,1.0,3492.96941898,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+126,13003.0,Kigali,Kicukiro,1.0,3492.96941898,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+127,13003.0,Kigali,Kicukiro,2.0,118.936436328,1,720.0,1,Lliquid urea,1.0,Market
+128,13003.0,Kigali,Kicukiro,2.0,118.936436328,1,720.0,1,NPK 17-17-17,8.0,Market
+129,13003.0,Kigali,Kicukiro,3.0,147.851918069,1,720.0,1,Lliquid urea,1.0,Market
+130,13003.0,Kigali,Kicukiro,3.0,147.851918069,1,720.0,1,NPK 17-17-17,8.0,Market
+131,13003.0,Kigali,Kicukiro,5.0,149.210880836,1,720.0,1,NPK 17-17-17,8.0,Other place (Specify)
+132,13003.0,Kigali,Kicukiro,5.0,149.210880836,1,720.0,1,Lliquid urea,1.0,Other place (Specify)
+133,13003.0,Kigali,Kicukiro,6.0,146.191206304,1,720.0,1,NPK 17-17-17,8.0,Other place (Specify)
+134,13003.0,Kigali,Kicukiro,6.0,146.191206304,1,720.0,1,Lliquid urea,1.0,Other place (Specify)
+135,13003.0,Kigali,Kicukiro,7.0,224.079294848,1,1200.0,1,NPK 17-17-17,12.0,Other place (Specify)
+136,13003.0,Kigali,Kicukiro,7.0,224.079294848,1,1200.0,1,Lliquid urea,1.0,Other place (Specify)
+137,13004.0,Kigali,Kicukiro,1.0,4175.97431404,1,2500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+138,13004.0,Kigali,Kicukiro,1.0,4175.97431404,1,2500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+139,13004.0,Kigali,Kicukiro,1.0,4175.97431404,1,2500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+140,13004.0,Kigali,Kicukiro,2.0,3677.16621728,1,1800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+141,13004.0,Kigali,Kicukiro,2.0,3677.16621728,1,1800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+142,13004.0,Kigali,Kicukiro,2.0,3677.16621728,1,1800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+143,13004.0,Kigali,Kicukiro,3.0,1012.68374252,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+144,13004.0,Kigali,Kicukiro,3.0,1012.68374252,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+145,13004.0,Kigali,Kicukiro,3.0,1012.68374252,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+146,13005.0,Kigali,Kicukiro,4.0,38933.5239493,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+147,13005.0,Kigali,Kicukiro,7.0,2718.8629596,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+148,13005.0,Kigali,Kicukiro,9.0,2742.08584101,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+149,13005.0,Kigali,Kicukiro,13.0,24427.5895716,1,8000.0,1,Urea,78000.0,Market
+150,13005.0,Kigali,Kicukiro,13.0,24427.5895716,1,8000.0,1,DAP,48000.0,Market
+151,13005.0,Kigali,Kicukiro,14.0,2816.81561402,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+152,13005.0,Kigali,Kicukiro,14.0,2816.81561402,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+153,13005.0,Kigali,Kicukiro,14.0,2816.81561402,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+154,13006.0,Kigali,Kicukiro,12.0,139779.642634,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+155,13006.0,Kigali,Kicukiro,13.0,71271.0503743,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+156,13006.0,Kigali,Kicukiro,15.0,48095.752529,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+157,13006.0,Kigali,Kicukiro,20.0,10325.4320052,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+158,13006.0,Kigali,Kicukiro,22.0,1015.63612667,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+159,21001.0,South,Nyanza,1.0,63906.1553481,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+160,21001.0,South,Nyanza,1.0,63906.1553481,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+161,21001.0,South,Nyanza,1.0,63906.1553481,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+162,21001.0,South,Nyanza,4.0,19159.9278704,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+163,21001.0,South,Nyanza,4.0,19159.9278704,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+164,21001.0,South,Nyanza,4.0,19159.9278704,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+165,21001.0,South,Nyanza,5.0,6067.06113484,1,600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+166,21001.0,South,Nyanza,5.0,6067.06113484,1,600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+167,21001.0,South,Nyanza,5.0,6067.06113484,1,600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+168,21001.0,South,Nyanza,6.0,3635.57900338,1,350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+169,21001.0,South,Nyanza,6.0,3635.57900338,1,350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+170,21001.0,South,Nyanza,6.0,3635.57900338,1,350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+171,21001.0,South,Nyanza,7.0,11894.6783669,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+172,21001.0,South,Nyanza,8.0,2138.99935877,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+173,21001.0,South,Nyanza,8.0,2138.99935877,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+174,21001.0,South,Nyanza,8.0,2138.99935877,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+175,21001.0,South,Nyanza,9.0,5894.55762543,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+176,21001.0,South,Nyanza,9.0,5894.55762543,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+177,21001.0,South,Nyanza,9.0,5894.55762543,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+178,21001.0,South,Nyanza,10.0,8119.79377608,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+179,21001.0,South,Nyanza,11.0,24556.6020223,0,0.0,1,NPK 17-17-17,373.0,Government(MINAGRI/RAB/NAEB/District
+180,21001.0,South,Nyanza,12.0,7444.52194894,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+181,21001.0,South,Nyanza,12.0,7444.52194894,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+182,21001.0,South,Nyanza,12.0,7444.52194894,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+183,21001.0,South,Nyanza,13.0,2853.31194144,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+184,21001.0,South,Nyanza,13.0,2853.31194144,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+185,21001.0,South,Nyanza,13.0,2853.31194144,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+186,21001.0,South,Nyanza,17.0,1987.53238088,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+187,21001.0,South,Nyanza,17.0,1987.53238088,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+188,21001.0,South,Nyanza,17.0,1987.53238088,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+189,21001.0,South,Nyanza,18.0,5210.4638453,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+190,21001.0,South,Nyanza,18.0,5210.4638453,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+191,21001.0,South,Nyanza,18.0,5210.4638453,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+192,21001.0,South,Nyanza,19.0,93421.1577484,1,7000.0,1,Urea,373.5,Market
+193,21001.0,South,Nyanza,19.0,93421.1577484,1,7000.0,1,DAP,1494.0,Market
+194,21001.0,South,Nyanza,20.0,125485.334136,1,1000.0,1,DAP,2008.0,Market
+195,21001.0,South,Nyanza,20.0,125485.334136,1,1000.0,1,Urea,502.0,Market
+196,21001.0,South,Nyanza,21.0,20235.1210531,1,1600.0,1,Urea,80.0,Market
+197,21001.0,South,Nyanza,21.0,20235.1210531,1,1600.0,1,DAP,322.0,Market
+198,21001.0,South,Nyanza,23.0,10829.3942493,1,850.0,1,DAP,172.0,Market
+199,21001.0,South,Nyanza,23.0,10829.3942493,1,850.0,1,Urea,43.0,Market
+200,21001.0,South,Nyanza,26.0,39840.8294529,1,3000.0,1,DAP,637.0,Market
+201,21001.0,South,Nyanza,26.0,39840.8294529,1,3000.0,1,Urea,159.0,Market
+202,21001.0,South,Nyanza,27.0,12819.6693192,1,1000.0,1,Urea,51.0,Market
+203,21001.0,South,Nyanza,27.0,12819.6693192,1,1000.0,1,DAP,204.0,Market
+204,21002.0,South,Nyanza,2.0,1516351.0,1,94200.0,1,NPK 17-17-17,4710.0,Government(MINAGRI/RAB/NAEB/District
+205,21002.0,South,Nyanza,2.0,1516351.0,1,94200.0,1,Urea,2355.0,Government(MINAGRI/RAB/NAEB/District
+206,21007.0,South,Nyanza,1.0,1791965.5,1,716920.0,1,NPK 17-17-17,35846.0,Government(MINAGRI/RAB/NAEB/District
+207,21007.0,South,Nyanza,1.0,1791965.5,1,716920.0,1,Urea,17923.0,Government(MINAGRI/RAB/NAEB/District
+208,22001.0,South,Gisagara,1.0,2810.88715523,1,1000.0,1,Urea,15.0,Government(MINAGRI/RAB/NAEB/District
+209,22001.0,South,Gisagara,1.0,2810.88715523,1,1000.0,1,DAP,7.5,Government(MINAGRI/RAB/NAEB/District
+210,22001.0,South,Gisagara,5.0,8557.48498673,1,350.0,1,Urea,4.0,Government(MINAGRI/RAB/NAEB/District
+211,22001.0,South,Gisagara,5.0,8557.48498673,1,350.0,1,DAP,2.0,Government(MINAGRI/RAB/NAEB/District
+212,22001.0,South,Gisagara,6.0,5946.24597914,1,30000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+213,22001.0,South,Gisagara,6.0,5946.24597914,1,30000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+214,22001.0,South,Gisagara,6.0,5946.24597914,1,30000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+215,22001.0,South,Gisagara,7.0,1030.30022251,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+216,22001.0,South,Gisagara,7.0,1030.30022251,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+217,22001.0,South,Gisagara,7.0,1030.30022251,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+218,22001.0,South,Gisagara,8.0,7615.9382017,1,4000.0,1,Urea,100.0,Government(MINAGRI/RAB/NAEB/District
+219,22001.0,South,Gisagara,8.0,7615.9382017,1,4000.0,1,DAP,50.0,Government(MINAGRI/RAB/NAEB/District
+220,22001.0,South,Gisagara,10.0,14900.5425157,1,4000.0,1,DAP,42.5,Government(MINAGRI/RAB/NAEB/District
+221,22001.0,South,Gisagara,10.0,14900.5425157,1,4000.0,1,Urea,82.0,Government(MINAGRI/RAB/NAEB/District
+222,22001.0,South,Gisagara,11.0,9882.39009491,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+223,22001.0,South,Gisagara,11.0,9882.39009491,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+224,22001.0,South,Gisagara,11.0,9882.39009491,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+225,22001.0,South,Gisagara,14.0,2318.10110869,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+226,22001.0,South,Gisagara,14.0,2318.10110869,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+227,22001.0,South,Gisagara,14.0,2318.10110869,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+228,22001.0,South,Gisagara,16.0,1027.64222176,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+229,22001.0,South,Gisagara,16.0,1027.64222176,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+230,22001.0,South,Gisagara,16.0,1027.64222176,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+231,22001.0,South,Gisagara,17.0,1554.86375563,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+232,22001.0,South,Gisagara,17.0,1554.86375563,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+233,22001.0,South,Gisagara,17.0,1554.86375563,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+234,22002.0,South,Gisagara,1.0,450272.90625,1,205000.0,1,DAP,2400.0,Government & Market
+235,22002.0,South,Gisagara,1.0,450272.90625,1,205000.0,1,Urea,1200.0,Government & Market
+236,22003.0,South,Gisagara,1.0,736061.4375,0,0.0,1,NPK 17-17-17,14000.0,Government & Market
+237,22003.0,South,Gisagara,1.0,736061.4375,0,0.0,1,Urea,7000.0,Government & Market
+238,22004.0,South,Gisagara,1.0,1273336.75,1,1519500.0,1,DAP,10000.0,Market
+239,22005.0,South,Gisagara,1.0,1175108.875,1,16000.0,1,NPK 17-17-17,160000.0,Government & Market
+240,22005.0,South,Gisagara,1.0,1175108.875,1,16000.0,1,Urea,8000.0,Government & Market
+241,22006.0,South,Gisagara,5.0,15272.5368397,1,10000.0,1,Other inorganic fertilizer (to specify),79.0,Government(MINAGRI/RAB/NAEB/District
+242,22006.0,South,Gisagara,6.0,62838.843714,1,20000.0,1,Other inorganic fertilizer (to specify),1038.0,Government(MINAGRI/RAB/NAEB/District
+243,22006.0,South,Gisagara,18.0,15438.4036935,1,10000.0,1,Other inorganic fertilizer (to specify),167.0,Government(MINAGRI/RAB/NAEB/District
+244,22006.0,South,Gisagara,24.0,75937.0087759,1,23000.0,1,Other inorganic fertilizer (to specify),482.0,Government(MINAGRI/RAB/NAEB/District
+245,22006.0,South,Gisagara,28.0,19210.9186636,1,2900.0,1,Other inorganic fertilizer (to specify),65.0,Government(MINAGRI/RAB/NAEB/District
+246,22006.0,South,Gisagara,29.0,3366.1193985,1,700.0,1,Other inorganic fertilizer (to specify),15.0,Government(MINAGRI/RAB/NAEB/District
+247,22006.0,South,Gisagara,30.0,49491.3443461,1,18000.0,1,Other inorganic fertilizer (to specify),506.0,Government(MINAGRI/RAB/NAEB/District
+248,22006.0,South,Gisagara,31.0,4494.98771666,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+249,22006.0,South,Gisagara,32.0,706.722915929,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+250,22006.0,South,Gisagara,33.0,4964.90765441,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+251,22006.0,South,Gisagara,34.0,58681.3309346,1,12400.0,1,Other inorganic fertilizer (to specify),309.0,Government(MINAGRI/RAB/NAEB/District
+252,22006.0,South,Gisagara,35.0,2182.65684536,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+253,22006.0,South,Gisagara,36.0,2431.85154353,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+254,22006.0,South,Gisagara,37.0,334.570886462,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+255,22007.0,South,Gisagara,1.0,4143304.75,0,0.0,1,Urea,41728.0,Market
+256,22007.0,South,Gisagara,1.0,4143304.75,0,0.0,1,NPK 17-17-17,83456.0,Market
+257,22008.0,South,Gisagara,1.0,1133312.75,1,37000.0,1,DAP,3000.0,Government & Market
+258,22009.0,South,Gisagara,1.0,505215.706417,1,3000.0,1,DAP,1500.0,Market
+259,22009.0,South,Gisagara,2.0,924795.761575,0,0.0,1,DAP,1200.0,Market
+260,22010.0,South,Gisagara,2.0,1899565.625,0,0.0,1,NPK 17-17-17,40000.0,Other place (Specify)
+261,22010.0,South,Gisagara,2.0,1899565.625,0,0.0,1,Urea,20000.0,Other place (Specify)
+262,22011.0,South,Gisagara,1.0,1021967.8125,1,480000.0,1,Urea,4800.0,Government & Market
+263,22011.0,South,Gisagara,1.0,1021967.8125,1,480000.0,1,DAP,9600.0,Government & Market
+264,22012.0,South,Gisagara,1.0,1037479.625,0,0.0,1,NPK 17-17-17,21198.0,Government(MINAGRI/RAB/NAEB/District
+265,22012.0,South,Gisagara,1.0,1037479.625,0,0.0,1,NPK 20-10-10,10599.0,Government(MINAGRI/RAB/NAEB/District
+266,22013.0,South,Gisagara,1.0,4576581.0,0,0.0,1,Urea,884.5,Market
+267,22013.0,South,Gisagara,1.0,4576581.0,0,0.0,1,NPK 17-17-17,115450.0,Market
+268,22013.0,South,Gisagara,1.0,4576581.0,0,0.0,1,Other inorganic fertilizer (to specify),168.0,Market
+269,22014.0,South,Gisagara,1.0,670168.892818,1,13500.0,1,Urea,3000.0,Government(MINAGRI/RAB/NAEB/District
+270,22014.0,South,Gisagara,1.0,670168.892818,1,13500.0,1,NPK 17-17-17,6000.0,Government(MINAGRI/RAB/NAEB/District
+271,22015.0,South,Gisagara,1.0,3714484.5,0,0.0,1,Urea,19209.0,Government(MINAGRI/RAB/NAEB/District
+272,22015.0,South,Gisagara,1.0,3714484.5,0,0.0,1,NPK 17-17-17,38418.0,Government(MINAGRI/RAB/NAEB/District
+273,23001.0,South,Nyaruguru,1.0,32469.3375267,1,4800.0,1,Other inorganic fertilizer (to specify),18464.0,Market
+274,23001.0,South,Nyaruguru,1.0,32469.3375267,1,4800.0,1,NPK 17-17-17,903.0,Market
+275,23001.0,South,Nyaruguru,4.0,27616.3067142,1,4400.0,1,Other inorganic fertilizer (to specify),15773.0,Market
+276,23001.0,South,Nyaruguru,4.0,27616.3067142,1,4400.0,1,NPK 17-17-17,483.5,Market
+277,23001.0,South,Nyaruguru,5.0,2465.62701713,1,380.0,1,NPK 17-17-17,84.0,Market
+278,23001.0,South,Nyaruguru,5.0,2465.62701713,1,380.0,1,Other inorganic fertilizer (to specify),2169.6,Market
+279,23001.0,South,Nyaruguru,9.0,2861.67601609,1,460.0,1,Other inorganic fertilizer (to specify),2621.6,Market
+280,23001.0,South,Nyaruguru,9.0,2861.67601609,1,460.0,1,NPK 17-17-17,101.5,Market
+281,23001.0,South,Nyaruguru,11.0,305.600365228,1,128.0,1,DAP,48.0,Market
+282,24001.0,South,Huye,1.0,542754.125,0,0.0,1,Urea,4552.0,Market
+283,24001.0,South,Huye,1.0,542754.125,0,0.0,1,NPK 17-17-17,9776.0,Government(MINAGRI/RAB/NAEB/District
+284,24002.0,South,Huye,1.0,512763.625,0,0.0,1,NPK 17-17-17,9200.0,Government(MINAGRI/RAB/NAEB/District
+285,24002.0,South,Huye,1.0,512763.625,0,0.0,1,Urea,4850.0,Government(MINAGRI/RAB/NAEB/District
+286,24004.0,South,Gisagara,1.0,446237.59375,0,0.0,1,Lliquid urea,2050.0,Market
+287,24004.0,South,Gisagara,1.0,446237.59375,0,0.0,1,NPK 17-17-17,2050.0,Market
+288,24004.0,South,Gisagara,1.0,446237.59375,0,0.0,1,Other inorganic fertilizer (to specify),160.0,Market
+289,24004.0,South,Gisagara,39.0,3583.72616651,1,700.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+290,24004.0,South,Gisagara,39.0,3583.72616651,1,700.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+291,24004.0,South,Gisagara,39.0,3583.72616651,1,700.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+292,24004.0,South,Gisagara,40.0,8813.14879368,1,500.0,1,Other inorganic fertilizer (to specify),3.5,Government(MINAGRI/RAB/NAEB/District
+293,24004.0,South,Gisagara,42.0,2754.41644681,1,150.0,1,Other inorganic fertilizer (to specify),89.0,Government(MINAGRI/RAB/NAEB/District
+294,24004.0,South,Gisagara,44.0,12231.6350408,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+295,24004.0,South,Gisagara,45.0,11151.6011553,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+296,24004.0,South,Gisagara,47.0,2263.03499286,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+297,24004.0,South,Gisagara,48.0,4313.9004046,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+298,24004.0,South,Gisagara,49.0,6907.64157682,1,2200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+299,24004.0,South,Gisagara,49.0,6907.64157682,1,2200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+300,24004.0,South,Gisagara,49.0,6907.64157682,1,2200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+301,24004.0,South,Gisagara,51.0,2258.5930928,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+302,24004.0,South,Gisagara,54.0,18226.6689381,1,1400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+303,24004.0,South,Gisagara,54.0,18226.6689381,1,1400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+304,24004.0,South,Gisagara,54.0,18226.6689381,1,1400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+305,24004.0,South,Gisagara,56.0,14515.4206076,1,2100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+306,24004.0,South,Gisagara,56.0,14515.4206076,1,2100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+307,24004.0,South,Gisagara,56.0,14515.4206076,1,2100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+308,24004.0,South,Gisagara,62.0,39101.7623443,1,1800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+309,24004.0,South,Gisagara,62.0,39101.7623443,1,1800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+310,24004.0,South,Gisagara,62.0,39101.7623443,1,1800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+311,24004.0,South,Gisagara,68.0,5506.01157709,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+312,24004.0,South,Gisagara,68.0,5506.01157709,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+313,24004.0,South,Gisagara,68.0,5506.01157709,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+314,24004.0,South,Gisagara,69.0,14773.632211,1,1300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+315,24004.0,South,Gisagara,69.0,14773.632211,1,1300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+316,24004.0,South,Gisagara,69.0,14773.632211,1,1300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+317,24005.0,South,Huye,1.0,395138.21875,1,3000.0,1,NPK 17-17-17,3702.0,Market
+318,24005.0,South,Huye,1.0,395138.21875,1,3000.0,1,Urea,3560.0,Market
+319,24006.0,South,Huye,1.0,1394458.75,1,2375.0,1,NPK 17-17-17,10000.0,Government & Market
+320,24006.0,South,Huye,1.0,1394458.75,1,2375.0,1,Urea,5000.0,Government & Market
+321,24007.0,South,Huye,1.0,1078251.25,0,0.0,1,NPK 17-17-17,12000.0,Market
+322,24007.0,South,Huye,1.0,1078251.25,0,0.0,1,Urea,6300.0,Market
+323,24008.0,South,Huye,1.0,1243641.75,1,16470.0,1,Other inorganic fertilizer (to specify),23540.0,Government(MINAGRI/RAB/NAEB/District
+324,24008.0,South,Huye,1.0,1243641.75,1,16470.0,1,Urea,11770.0,Government(MINAGRI/RAB/NAEB/District
+325,24008.0,South,Huye,1.0,1243641.75,1,16470.0,1,NPK 17-17-17,23540.0,Government(MINAGRI/RAB/NAEB/District
+326,24010.0,South,Huye,1.0,407908.59375,0,0.0,1,NPK 17-17-17,5785.0,Market
+327,24011.0,South,Huye,1.0,534606.5,0,0.0,1,NPK 17-17-17,7200.0,Market
+328,24011.0,South,Huye,1.0,534606.5,0,0.0,1,Urea,3600.0,Market
+329,24012.0,South,Huye,1.0,743445.125,0,0.0,1,NPK 17-17-17,4590.4,Government & Market
+330,24012.0,South,Huye,1.0,743445.125,0,0.0,1,Urea,2295.2,Government & Market
+331,24013.0,South,Huye,1.0,461095.03125,0,0.0,1,NPK 17-17-17,5000.0,Government(MINAGRI/RAB/NAEB/District
+332,24013.0,South,Huye,1.0,461095.03125,0,0.0,1,Urea,2500.0,Government(MINAGRI/RAB/NAEB/District
+333,24014.0,South,Huye,2.0,403626.0,1,3772.0,1,Urea,881.0,Government & Market
+334,24014.0,South,Huye,2.0,403626.0,1,3772.0,1,NPK 17-17-17,1762.0,Government & Market
+335,24015.0,South,Huye,1.0,521955.0625,0,0.0,1,Urea,5095.0,Market
+336,24015.0,South,Huye,1.0,521955.0625,0,0.0,1,NPK 17-17-17,3728.0,Market
+337,24016.0,South,Huye,1.0,628220.5,1,229071.0,1,Urea,12879.0,Government(MINAGRI/RAB/NAEB/District
+338,24016.0,South,Huye,1.0,628220.5,1,229071.0,1,DAP,3660.0,Government(MINAGRI/RAB/NAEB/District
+339,25001.0,South,Nyamagabe,3.0,199708.303531,1,600000.0,1,NPK 17-17-17,6000.0,Market
+340,25001.0,South,Nyamagabe,6.0,16339.4470874,1,9000.0,1,DAP,300.0,Market
+341,25001.0,South,Nyamagabe,7.0,37796.7771759,1,180000.0,1,DAP,400.0,Market
+342,25001.0,South,Nyamagabe,7.0,37796.7771759,1,180000.0,1,NPK 17-17-17,600.0,Market
+343,25001.0,South,Nyamagabe,8.0,24259.8652677,1,6000.0,1,NPK 17-17-17,600.0,Market
+344,26001.0,South,Ruhango,4.0,2257.19582587,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+345,26001.0,South,Ruhango,4.0,2257.19582587,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+346,26001.0,South,Ruhango,4.0,2257.19582587,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+347,26001.0,South,Ruhango,5.0,785.775494522,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+348,26001.0,South,Ruhango,6.0,380.281214219,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+349,26001.0,South,Ruhango,7.0,3999.98277165,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+350,26001.0,South,Ruhango,7.0,3999.98277165,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+351,26001.0,South,Ruhango,7.0,3999.98277165,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+352,26001.0,South,Ruhango,8.0,17317.777648,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+353,26001.0,South,Ruhango,8.0,17317.777648,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+354,26001.0,South,Ruhango,8.0,17317.777648,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+355,26001.0,South,Ruhango,9.0,2568.03278124,1,4000.0,1,NPK 20-10-10,20.0,Government(MINAGRI/RAB/NAEB/District
+356,26001.0,South,Ruhango,10.0,799.291813678,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+357,26001.0,South,Ruhango,13.0,949.037504926,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+358,26001.0,South,Ruhango,13.0,949.037504926,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+359,26001.0,South,Ruhango,13.0,949.037504926,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+360,26001.0,South,Ruhango,14.0,828.368390752,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+361,26001.0,South,Ruhango,15.0,1222.87017702,1,4000.0,1,NPK 20-10-10,20.0,Government(MINAGRI/RAB/NAEB/District
+362,26001.0,South,Ruhango,16.0,158.773611933,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+363,26001.0,South,Ruhango,17.0,212.784035881,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+364,26001.0,South,Ruhango,18.0,15237.5390479,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+365,26001.0,South,Ruhango,18.0,15237.5390479,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+366,26001.0,South,Ruhango,18.0,15237.5390479,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+367,26001.0,South,Ruhango,19.0,12140.0567417,1,32000.0,1,NPK 17-17-17,200.0,Government(MINAGRI/RAB/NAEB/District
+368,26001.0,South,Ruhango,20.0,1051.83754024,1,9000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+369,26001.0,South,Ruhango,20.0,1051.83754024,1,9000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+370,26001.0,South,Ruhango,20.0,1051.83754024,1,9000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+371,26002.0,South,Ruhango,1.0,878113.625,0,0.0,1,NPK 17-17-17,8938.0,Market
+372,26002.0,South,Ruhango,1.0,878113.625,0,0.0,1,DAP,810.0,Market
+373,26002.0,South,Ruhango,1.0,878113.625,0,0.0,1,Urea,3519.0,Market
+374,26003.0,South,Ruhango,1.0,551080.25,0,0.0,1,KCL/MOP,950.5,Market
+375,26003.0,South,Ruhango,1.0,551080.25,0,0.0,1,Urea,2823.0,Market
+376,26003.0,South,Ruhango,1.0,551080.25,0,0.0,1,NPK 17-17-17,1989.0,Market
+377,26005.0,South,Ruhango,1.0,3904869.0,0,0.0,1,DAP,28897.0,Market
+378,26005.0,South,Ruhango,1.0,3904869.0,0,0.0,1,Urea,39050.0,Market
+379,26005.0,South,Ruhango,1.0,3904869.0,0,0.0,1,NPK 17-17-17,78100.0,Market
+380,26006.0,South,Ruhango,1.0,384504.158563,0,0.0,1,NPK 17-17-17,100.0,Market
+381,26006.0,South,Ruhango,1.0,384504.158563,0,0.0,1,Urea,230.0,Market
+382,26007.0,South,Ruhango,1.0,289484.59375,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+383,26008.0,South,Ruhango,1.0,146778.25,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+384,26010.0,South,Ruhango,1.0,703504.625,0,0.0,1,Urea,1650.0,Market
+385,26010.0,South,Ruhango,1.0,703504.625,0,0.0,1,NPK 17-17-17,3300.0,Market
+386,27001.0,South,Muhanga,2.0,319693.625,1,182000.0,1,DAP,5200.0,Market
+387,27001.0,South,Muhanga,2.0,319693.625,1,182000.0,1,Urea,3913.0,Market
+388,27001.0,South,Muhanga,6.0,779080.375,1,39150.0,1,Urea,850.0,Market
+389,27001.0,South,Muhanga,6.0,779080.375,1,39150.0,1,DAP,1750.0,Market
+390,27001.0,South,Muhanga,6.0,779080.375,1,39150.0,1,NPK 17-17-17,3600.0,Market
+391,27002.0,South,Muhanga,1.0,606744.5,1,30000.0,1,Urea,3000.0,Market
+392,27002.0,South,Muhanga,1.0,606744.5,1,30000.0,1,NPK 17-17-17,6000.0,Market
+393,27002.0,South,Muhanga,4.0,132226.34375,1,63000.0,1,DAP,1000.0,Market
+394,27002.0,South,Muhanga,4.0,132226.34375,1,63000.0,1,Urea,500.0,Market
+395,27003.0,South,Muhanga,1.0,2041793.625,1,1229640.0,1,Urea,7248.0,Government & Market
+396,27003.0,South,Muhanga,1.0,2041793.625,1,1229640.0,1,DAP,15402.0,Government & Market
+397,27003.0,South,Muhanga,1.0,2041793.625,1,1229640.0,1,Other inorganic fertilizer (to specify),68.0,Government & Market
+398,28001.0,South,Kamonyi,1.0,594811.903401,1,393600.0,1,Urea,492.0,Government & Market
+399,28001.0,South,Kamonyi,1.0,594811.903401,1,393600.0,1,DAP,984.0,Government & Market
+400,28001.0,South,Kamonyi,2.0,100202.952997,1,1936000.0,1,DAP,4840.0,Government & Market
+401,28001.0,South,Kamonyi,2.0,100202.952997,1,1936000.0,1,Urea,2420.0,Government & Market
+402,28002.0,South,Kamonyi,1.0,828034.25,0,0.0,1,Urea,4500.0,Government & Market
+403,28002.0,South,Kamonyi,1.0,828034.25,0,0.0,1,NPK 17-17-17,9000.0,Government & Market
+404,28003.0,South,Kamonyi,1.0,1089728.0,0,0.0,1,NPK 17-17-17,21214.0,Government(MINAGRI/RAB/NAEB/District
+405,28003.0,South,Kamonyi,1.0,1089728.0,0,0.0,1,Urea,10607.0,Government(MINAGRI/RAB/NAEB/District
+406,28004.0,South,Kamonyi,1.0,767470.4375,1,30000.0,1,Urea,4100.0,Government(MINAGRI/RAB/NAEB/District
+407,28004.0,South,Kamonyi,1.0,767470.4375,1,30000.0,1,DAP,8700.0,Government(MINAGRI/RAB/NAEB/District
+408,31001.0,West,Karongi,1.0,11728.5404743,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+409,31001.0,West,Karongi,2.0,91424.5934734,1,80000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+410,31001.0,West,Karongi,2.0,91424.5934734,1,80000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+411,31001.0,West,Karongi,2.0,91424.5934734,1,80000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+412,31001.0,West,Karongi,3.0,96142.8391438,1,100000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+413,31001.0,West,Karongi,3.0,96142.8391438,1,100000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+414,31001.0,West,Karongi,3.0,96142.8391438,1,100000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+415,33001.0,West,Rubavu,2.0,40290.0953669,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+416,33001.0,West,Rubavu,2.0,40290.0953669,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+417,33001.0,West,Rubavu,2.0,40290.0953669,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+418,33001.0,West,Rubavu,5.0,2674.30345288,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+419,33001.0,West,Rubavu,6.0,15348.0404902,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+420,33001.0,West,Rubavu,7.0,10763.5107999,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+421,33001.0,West,Rubavu,8.0,67033.3449163,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+422,33001.0,West,Rubavu,8.0,67033.3449163,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+423,33001.0,West,Rubavu,8.0,67033.3449163,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+424,33001.0,West,Rubavu,9.0,11550.7130415,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+425,33001.0,West,Rubavu,10.0,9938.66426504,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+426,33001.0,West,Rubavu,11.0,377.809636519,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+427,33001.0,West,Rubavu,12.0,2736.22458165,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+428,33001.0,West,Rubavu,13.0,6422.02942292,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+429,33001.0,West,Rubavu,14.0,4508.09141648,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+430,33002.0,West,Rubavu,1.0,137215.911575,1,104000.0,1,NPK 17-17-17,2000.0,Government & Market
+431,33003.0,West,Rubavu,2.0,8796.83864773,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+432,33003.0,West,Rubavu,3.0,258674.709746,1,4400.0,1,NPK 17-17-17,6600.0,Government & Market
+433,33003.0,West,Rubavu,5.0,26211.5767905,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+434,36001.0,West,Rusizi,1.0,21411.3813049,1,21763.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+435,36001.0,West,Rusizi,1.0,21411.3813049,1,21763.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+436,36001.0,West,Rusizi,1.0,21411.3813049,1,21763.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+437,36001.0,West,Rusizi,2.0,25764.1690033,1,26763.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+438,36001.0,West,Rusizi,2.0,25764.1690033,1,26763.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+439,36001.0,West,Rusizi,2.0,25764.1690033,1,26763.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+440,36001.0,West,Rusizi,3.0,11713.2099934,1,18000.0,1,Urea,150.0,Government & Market
+441,36001.0,West,Rusizi,3.0,11713.2099934,1,18000.0,1,DAP,150.0,Government & Market
+442,36001.0,West,Rusizi,4.0,107578.055957,1,78000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+443,36001.0,West,Rusizi,4.0,107578.055957,1,78000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+444,36001.0,West,Rusizi,4.0,107578.055957,1,78000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+445,36002.0,West,Rusizi,1.0,2940973.75,1,8910.0,1,Urea,59000.0,Market
+446,36002.0,West,Rusizi,1.0,2940973.75,1,8910.0,1,NPK 17-17-17,41950.0,Market
+447,36003.0,West,Rusizi,3.0,4006912.25,0,0.0,1,NPK 17-17-17,76201.0,Government(MINAGRI/RAB/NAEB/District
+448,36003.0,West,Rusizi,3.0,4006912.25,0,0.0,1,Urea,38100.5,Government(MINAGRI/RAB/NAEB/District
+449,36004.0,West,Rusizi,1.0,2595341.6436,0,0.0,1,Urea,26628.0,Government(MINAGRI/RAB/NAEB/District
+450,36004.0,West,Rusizi,1.0,2595341.6436,0,0.0,1,NPK 17-17-17,53256.0,Government(MINAGRI/RAB/NAEB/District
+451,36005.0,West,Rusizi,1.0,4492769.0,0,0.0,1,NPK 17-17-17,87820.0,Government(MINAGRI/RAB/NAEB/District
+452,36005.0,West,Rusizi,1.0,4492769.0,0,0.0,1,Urea,43910.0,Government(MINAGRI/RAB/NAEB/District
+453,36006.0,West,Rusizi,1.0,1510493.41133,0,0.0,1,Urea,200.0,Market
+454,36006.0,West,Rusizi,1.0,1510493.41133,0,0.0,1,NPK 17-17-17,300.0,Market
+455,36006.0,West,Rusizi,2.0,62456.3328752,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+456,36006.0,West,Rusizi,3.0,432741.831786,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+457,36007.0,West,Rusizi,1.0,529353.9375,0,0.0,1,NPK 17-17-17,10984.0,Government(MINAGRI/RAB/NAEB/District
+458,36007.0,West,Rusizi,1.0,529353.9375,0,0.0,1,Urea,5492.0,Government(MINAGRI/RAB/NAEB/District
+459,37001.0,West,Nyamasheke,1.0,70406.2611592,1,18000.0,1,Other inorganic fertilizer (to specify),2000.0,Government(MINAGRI/RAB/NAEB/District
+460,37001.0,West,Nyamasheke,2.0,124758.755685,1,42000.0,1,Other inorganic fertilizer (to specify),3000.0,Government(MINAGRI/RAB/NAEB/District
+461,37001.0,West,Nyamasheke,3.0,21366.7579748,1,9000.0,1,Other inorganic fertilizer (to specify),567.0,Government(MINAGRI/RAB/NAEB/District
+462,37001.0,West,Nyamasheke,4.0,98963.2153535,1,42000.0,1,Other inorganic fertilizer (to specify),2623.0,Government(MINAGRI/RAB/NAEB/District
+463,37001.0,West,Nyamasheke,5.0,19965.6492293,1,9000.0,1,Other inorganic fertilizer (to specify),530.0,Government(MINAGRI/RAB/NAEB/District
+464,37002.0,West,Nyamasheke,1.0,421615.65625,0,0.0,1,NPK 17-17-17,4000.0,Government(MINAGRI/RAB/NAEB/District
+465,37002.0,West,Nyamasheke,1.0,421615.65625,0,0.0,1,Urea,2000.0,Government(MINAGRI/RAB/NAEB/District
+466,37004.0,West,Nyamasheke,1.0,1242254.0,1,240000.0,1,NPK 17-17-17,12000.0,Government(MINAGRI/RAB/NAEB/District
+467,37006.0,West,Nyamasheke,1.0,395529.0,0,0.0,1,NPK 17-17-17,8426.0,Government(MINAGRI/RAB/NAEB/District
+468,37006.0,West,Nyamasheke,1.0,395529.0,0,0.0,1,Urea,4213.0,Government(MINAGRI/RAB/NAEB/District
+469,41001.0,North,Rulindo,1.0,7860.60225055,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+470,41001.0,North,Rulindo,1.0,7860.60225055,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+471,41001.0,North,Rulindo,1.0,7860.60225055,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+472,41001.0,North,Rulindo,2.0,31019.4001165,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+473,41001.0,North,Rulindo,2.0,31019.4001165,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+474,41001.0,North,Rulindo,2.0,31019.4001165,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+475,41001.0,North,Rulindo,3.0,18990.2755188,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+476,41001.0,North,Rulindo,3.0,18990.2755188,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+477,41001.0,North,Rulindo,3.0,18990.2755188,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+478,41001.0,North,Rulindo,4.0,19824.77734375,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+479,41001.0,North,Rulindo,4.0,19824.77734375,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+480,41001.0,North,Rulindo,4.0,19824.77734375,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+481,41003.0,North,Rulindo,1.0,32528.2267153,1,6480.0,1,NPK 25-5-5,3240.0,Government(MINAGRI/RAB/NAEB/District
+482,41003.0,North,Rulindo,3.0,18968.7160493,1,3760.0,1,NPK 25-5-5,1880.0,Government(MINAGRI/RAB/NAEB/District
+483,41004.0,North,Rulindo,1.0,46932.5103663,0,0.0,1,NPK 17-17-17,500.0,Government & Market
+484,41004.0,North,Rulindo,2.0,3854.06200037,0,0.0,1,NPK 17-17-17,120.0,Government & Market
+485,41004.0,North,Rulindo,3.0,32679.5638801,0,0.0,1,Urea,150.0,Government(MINAGRI/RAB/NAEB/District
+486,41004.0,North,Rulindo,3.0,32679.5638801,0,0.0,1,NPK 17-17-17,300.0,Government & Market
+487,41004.0,North,Rulindo,4.0,75437.2082936,1,50000.0,1,NPK 17-17-17,1800.0,Government & Market
+488,41004.0,North,Rulindo,5.0,38273.932078,0,0.0,1,NPK 17-17-17,1000.0,Government & Market
+489,41004.0,North,Rulindo,6.0,3586.89802451,1,4000.0,1,NPK 17-17-17,50.0,Government & Market
+490,41004.0,North,Rulindo,7.0,694.183771811,1,2000.0,1,NPK 17-17-17,25.0,Government & Market
+491,41005.0,North,Rulindo,1.0,19070.3850868,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+492,43001.0,North,Musanze,1.0,2040.41486048,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+493,43001.0,North,Musanze,2.0,5503.78438286,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+494,43001.0,North,Musanze,4.0,728.116763654,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+495,43001.0,North,Musanze,6.0,1082.5332491,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+496,43001.0,North,Musanze,7.0,1258.32930365,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+497,43001.0,North,Musanze,8.0,2007.79419162,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+498,43001.0,North,Musanze,11.0,24453.7606647,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+499,43001.0,North,Musanze,12.0,1641.80654319,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+500,43001.0,North,Musanze,13.0,2425.78856755,1,600.0,1,NPK 17-17-17,90.0,Government(MINAGRI/RAB/NAEB/District
+501,43001.0,North,Musanze,15.0,3613.79944042,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+502,43001.0,North,Musanze,17.0,2120.46928399,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+503,45001.0,North,Gicumbi,1.0,91445.3102476,1,8540.0,1,Urea,350.0,Government & Market
+504,45001.0,North,Gicumbi,1.0,91445.3102476,1,8540.0,1,DAP,700.0,Government & Market
+505,45001.0,North,Gicumbi,2.0,19719.8321601,1,1840.0,1,NPK 17-17-17,54.0,Government(MINAGRI/RAB/NAEB/District
+506,45001.0,North,Gicumbi,3.0,15532.1701653,1,1446.0,1,NPK 17-17-17,520.0,Government(MINAGRI/RAB/NAEB/District
+507,45001.0,North,Gicumbi,4.0,101384.409518,1,10000.0,1,Urea,125.0,Government(MINAGRI/RAB/NAEB/District
+508,45001.0,North,Gicumbi,4.0,101384.409518,1,10000.0,1,DAP,125.0,Government(MINAGRI/RAB/NAEB/District
+509,45001.0,North,Gicumbi,9.0,10016.7452878,1,1000.0,1,Urea,12.0,Government(MINAGRI/RAB/NAEB/District
+510,45001.0,North,Gicumbi,9.0,10016.7452878,1,1000.0,1,DAP,12.0,Government(MINAGRI/RAB/NAEB/District
+511,45001.0,North,Gicumbi,10.0,19038.3415719,1,1773.0,1,NPK 17-17-17,52.0,Government(MINAGRI/RAB/NAEB/District
+512,45002.0,East,Gicumbi,7.0,264275.9375,0,0.0,1,Urea,600.0,Government(MINAGRI/RAB/NAEB/District
+513,45002.0,East,Gicumbi,7.0,264275.9375,0,0.0,1,Other inorganic fertilizer (to specify),20.0,Market
+514,45002.0,East,Gicumbi,7.0,264275.9375,0,0.0,1,DAP,1321.0,Government(MINAGRI/RAB/NAEB/District
+515,51001.0,East,Rwamagana,1.0,30818.1044143,1,7000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+516,51001.0,East,Rwamagana,1.0,30818.1044143,1,7000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+517,51001.0,East,Rwamagana,1.0,30818.1044143,1,7000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+518,51001.0,East,Rwamagana,2.0,35391.0141145,1,9100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+519,51001.0,East,Rwamagana,2.0,35391.0141145,1,9100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+520,51001.0,East,Rwamagana,2.0,35391.0141145,1,9100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+521,51001.0,East,Rwamagana,4.0,57364.241728,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+522,51001.0,East,Rwamagana,5.0,9079.38108449,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+523,51001.0,East,Rwamagana,5.0,9079.38108449,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+524,51001.0,East,Rwamagana,5.0,9079.38108449,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+525,51001.0,East,Rwamagana,9.0,53993.7255736,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+526,51001.0,East,Rwamagana,10.0,40539.9786961,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+527,51001.0,East,Rwamagana,11.0,4980.1974839,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+528,51002.0,East,Rwamagana,1.0,42740.3151021,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+529,51002.0,East,Rwamagana,1.0,42740.3151021,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+530,51002.0,East,Rwamagana,1.0,42740.3151021,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+531,51002.0,East,Rwamagana,2.0,13202.1333203,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+532,51002.0,East,Rwamagana,5.0,10989.019234,1,6800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+533,51002.0,East,Rwamagana,5.0,10989.019234,1,6800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+534,51002.0,East,Rwamagana,5.0,10989.019234,1,6800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+535,51002.0,East,Rwamagana,7.0,10730.8672614,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+536,51002.0,East,Rwamagana,7.0,10730.8672614,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+537,51002.0,East,Rwamagana,7.0,10730.8672614,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+538,51002.0,East,Rwamagana,9.0,2732.78166826,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+539,51002.0,East,Rwamagana,9.0,2732.78166826,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+540,51002.0,East,Rwamagana,9.0,2732.78166826,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+541,51003.0,East,Rwamagana,2.0,8414.82019782,1,9000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+542,51003.0,East,Rwamagana,2.0,8414.82019782,1,9000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+543,51003.0,East,Rwamagana,2.0,8414.82019782,1,9000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+544,51003.0,East,Rwamagana,3.0,5850.74046523,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+545,51003.0,East,Rwamagana,3.0,5850.74046523,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+546,51003.0,East,Rwamagana,3.0,5850.74046523,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+547,51003.0,East,Rwamagana,7.0,47137.7583411,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+548,51004.0,East,Rwamagana,1.0,19701.0131655,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+549,51004.0,East,Rwamagana,1.0,19701.0131655,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+550,51004.0,East,Rwamagana,1.0,19701.0131655,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+551,51004.0,East,Rwamagana,2.0,14848.2003067,0,0.0,1,Urea,75.0,Government & Market
+552,51004.0,East,Rwamagana,2.0,14848.2003067,0,0.0,1,DAP,100.0,Government & Market
+553,51004.0,East,Rwamagana,3.0,55376.729762,0,0.0,1,Urea,277.0,Government & Market
+554,51004.0,East,Rwamagana,3.0,55376.729762,0,0.0,1,DAP,554.0,Government & Market
+555,51004.0,East,Rwamagana,9.0,16016.8126037,1,360.0,1,NPK 17-17-17,135000.0,Government & Market
+556,51005.0,East,Rwamagana,1.0,1841.84226682,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+557,51005.0,East,Rwamagana,1.0,1841.84226682,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+558,51005.0,East,Rwamagana,1.0,1841.84226682,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+559,51005.0,East,Rwamagana,2.0,2555.52172744,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+560,51005.0,East,Rwamagana,3.0,5092.42959948,1,500.0,1,NPK 17-17-17,2650.0,Market
+561,51005.0,East,Rwamagana,5.0,25334.4167364,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+562,51005.0,East,Rwamagana,5.0,25334.4167364,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+563,51005.0,East,Rwamagana,5.0,25334.4167364,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+564,51005.0,East,Rwamagana,6.0,3782.38156658,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+565,51005.0,East,Rwamagana,8.0,5891.45036982,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+566,51005.0,East,Rwamagana,8.0,5891.45036982,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+567,51005.0,East,Rwamagana,8.0,5891.45036982,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+568,51005.0,East,Rwamagana,9.0,2981.53218787,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+569,51005.0,East,Rwamagana,9.0,2981.53218787,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+570,51005.0,East,Rwamagana,9.0,2981.53218787,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+571,51005.0,East,Rwamagana,10.0,1352.97010991,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+572,51005.0,East,Rwamagana,10.0,1352.97010991,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+573,51005.0,East,Rwamagana,10.0,1352.97010991,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+574,51005.0,East,Rwamagana,11.0,8231.19311893,1,500.0,1,NPK 17-17-17,10600.0,Market
+575,51005.0,East,Rwamagana,12.0,1174.78352355,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+576,51005.0,East,Rwamagana,13.0,3116.54527325,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+577,51005.0,East,Rwamagana,14.0,12617.5481427,1,1000.0,1,Urea,7100.0,Market
+578,51005.0,East,Rwamagana,16.0,4765.5203311,1,500.0,1,NPK 17-17-17,10600.0,Market
+579,51005.0,East,Rwamagana,17.0,4620.62149184,1,100.0,1,Urea,2485.0,Market
+580,51005.0,East,Rwamagana,18.0,494.828197977,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+581,51005.0,East,Rwamagana,20.0,1153.39759495,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+582,51005.0,East,Rwamagana,21.0,6202.04882164,1,300.0,1,Urea,2130.0,Market
+583,51005.0,East,Rwamagana,22.0,1237.68869249,0,0.0,1,NPK 17-17-17,2080.0,Government(MINAGRI/RAB/NAEB/District
+584,51006.0,East,Rwamagana,2.0,26007.0781715,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+585,51006.0,East,Rwamagana,5.0,32478.7998109,1,600.0,1,Urea,90000.0,Government & Market
+586,51006.0,East,Rwamagana,6.0,40668.7193541,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+587,51006.0,East,Rwamagana,10.0,0.0,1,3740.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+588,51006.0,East,Rwamagana,10.0,0.0,1,3740.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+589,51006.0,East,Rwamagana,10.0,0.0,1,3740.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+590,51007.0,East,Rwamagana,2.0,5133.8060464,1,3825.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+591,51007.0,East,Rwamagana,2.0,5133.8060464,1,3825.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+592,51007.0,East,Rwamagana,2.0,5133.8060464,1,3825.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+593,51007.0,East,Rwamagana,4.0,1968.66594378,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+594,51007.0,East,Rwamagana,5.0,8845.82786682,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+595,51007.0,East,Rwamagana,7.0,3827.63099488,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+596,51007.0,East,Rwamagana,9.0,31872.1872992,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+597,51007.0,East,Rwamagana,9.0,31872.1872992,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+598,51007.0,East,Rwamagana,9.0,31872.1872992,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+599,51007.0,East,Rwamagana,12.0,1743.84341581,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+600,51007.0,East,Rwamagana,14.0,40598.6663292,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+601,51007.0,East,Rwamagana,14.0,40598.6663292,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+602,51007.0,East,Rwamagana,14.0,40598.6663292,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+603,51007.0,East,Rwamagana,15.0,3085.40944372,1,1900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+604,51007.0,East,Rwamagana,15.0,3085.40944372,1,1900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+605,51007.0,East,Rwamagana,15.0,3085.40944372,1,1900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+606,51007.0,East,Rwamagana,16.0,1710.20593871,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+607,51007.0,East,Rwamagana,18.0,954.806023187,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+608,51007.0,East,Rwamagana,20.0,891.249266786,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+609,51008.0,East,Rwamagana,5.0,4117.95970787,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+610,51008.0,East,Rwamagana,7.0,16633.3860902,1,3500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+611,51008.0,East,Rwamagana,7.0,16633.3860902,1,3500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+612,51008.0,East,Rwamagana,7.0,16633.3860902,1,3500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+613,51008.0,East,Rwamagana,8.0,20753.6083897,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+614,51008.0,East,Rwamagana,10.0,3667.30724926,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+615,51009.0,East,Rwamagana,1.0,124038.14877,0,0.0,1,DAP,3077.0,Government & Market
+616,51009.0,East,Rwamagana,1.0,124038.14877,0,0.0,1,Lliquid urea,30.0,Government & Market
+617,51009.0,East,Rwamagana,2.0,802158.511675,0,0.0,1,Lliquid urea,66.0,Government & Market
+618,51009.0,East,Rwamagana,2.0,802158.511675,0,0.0,1,DAP,8923.0,Government & Market
+619,51009.0,East,Rwamagana,4.0,106582.759404,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+620,51009.0,East,Rwamagana,5.0,39303.6601949,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+621,51009.0,East,Rwamagana,6.0,47876.485596,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+622,51009.0,East,Rwamagana,8.0,22744.9910326,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+623,51009.0,East,Rwamagana,8.0,22744.9910326,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+624,51009.0,East,Rwamagana,8.0,22744.9910326,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+625,51010.0,East,Rwamagana,1.0,88994.857873,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+626,51010.0,East,Rwamagana,1.0,88994.857873,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+627,51010.0,East,Rwamagana,1.0,88994.857873,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+628,51010.0,East,Rwamagana,2.0,6990.86378326,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+629,51010.0,East,Rwamagana,3.0,18653.812363,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+630,51010.0,East,Rwamagana,4.0,18578.7236424,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+631,51010.0,East,Rwamagana,7.0,13353.6830964,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+632,51010.0,East,Rwamagana,8.0,18999.4885491,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+633,51010.0,East,Rwamagana,9.0,60586.9581817,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+634,51010.0,East,Rwamagana,10.0,132933.196379,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+635,51010.0,East,Rwamagana,12.0,15387.5769195,1,7000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+636,51010.0,East,Rwamagana,12.0,15387.5769195,1,7000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+637,51010.0,East,Rwamagana,12.0,15387.5769195,1,7000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+638,51010.0,East,Rwamagana,13.0,8491.26466404,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+639,51010.0,East,Rwamagana,13.0,8491.26466404,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+640,51010.0,East,Rwamagana,13.0,8491.26466404,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+641,51010.0,East,Rwamagana,14.0,23279.4926605,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+642,51012.0,East,Rwamagana,1.0,315.533645164,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+643,51012.0,East,Rwamagana,2.0,118832.465405,1,9612.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+644,51012.0,East,Rwamagana,2.0,118832.465405,1,9612.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+645,51012.0,East,Rwamagana,2.0,118832.465405,1,9612.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+646,51012.0,East,Rwamagana,4.0,1743.24889683,1,4300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+647,51012.0,East,Rwamagana,4.0,1743.24889683,1,4300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+648,51012.0,East,Rwamagana,4.0,1743.24889683,1,4300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+649,51012.0,East,Rwamagana,6.0,5245.49139644,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+650,51012.0,East,Rwamagana,7.0,2634.96186795,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+651,51012.0,East,Rwamagana,8.0,3362.04812738,1,1900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+652,51012.0,East,Rwamagana,8.0,3362.04812738,1,1900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+653,51012.0,East,Rwamagana,8.0,3362.04812738,1,1900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+654,51012.0,East,Rwamagana,9.0,2810.79043602,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+655,51013.0,East,Rwamagana,2.0,64366.3462485,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+656,51013.0,East,Rwamagana,3.0,2213.15316084,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+657,51013.0,East,Rwamagana,5.0,724.900532063,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+658,51013.0,East,Rwamagana,6.0,6729.33644349,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+659,51013.0,East,Rwamagana,8.0,30259.1371518,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+660,51013.0,East,Rwamagana,9.0,29639.3043738,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+661,51014.0,East,Rwamagana,2.0,142166.419007,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+662,51014.0,East,Rwamagana,3.0,65896.1963135,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+663,51015.0,East,Rwamagana,1.0,78314.7490277,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+664,51015.0,East,Rwamagana,2.0,46064.3866314,1,1650.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+665,51015.0,East,Rwamagana,2.0,46064.3866314,1,1650.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+666,51015.0,East,Rwamagana,2.0,46064.3866314,1,1650.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+667,51015.0,East,Rwamagana,4.0,15530.5497943,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+668,51016.0,East,Rwamagana,1.0,10785.3225068,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+669,51016.0,East,Rwamagana,2.0,29311.2737106,0,0.0,1,DAP,220.0,Government & Market
+670,51016.0,East,Rwamagana,2.0,29311.2737106,0,0.0,1,Urea,351.0,Government & Market
+671,51016.0,East,Rwamagana,3.0,9014.61022991,0,0.0,1,Urea,39760.0,Government & Market
+672,51016.0,East,Rwamagana,3.0,9014.61022991,0,0.0,1,DAP,70.0,Government & Market
+673,51016.0,East,Rwamagana,4.0,11925.8105398,0,0.0,1,DAP,90.0,Government & Market
+674,51016.0,East,Rwamagana,4.0,11925.8105398,0,0.0,1,Urea,143.0,Government & Market
+675,51016.0,East,Rwamagana,6.0,10669.6856468,0,0.0,1,DAP,80.0,Market
+676,51016.0,East,Rwamagana,6.0,10669.6856468,0,0.0,1,Urea,128.0,Government & Market
+677,51016.0,East,Rwamagana,7.0,3126.76028094,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+678,51016.0,East,Rwamagana,7.0,3126.76028094,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+679,51016.0,East,Rwamagana,7.0,3126.76028094,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+680,51016.0,East,Rwamagana,8.0,3536.76038799,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+681,51016.0,East,Rwamagana,9.0,868.823801501,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+682,51016.0,East,Rwamagana,9.0,868.823801501,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+683,51016.0,East,Rwamagana,9.0,868.823801501,1,300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+684,51016.0,East,Rwamagana,11.0,113.66202661,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+685,51016.0,East,Rwamagana,12.0,5372.9320033,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+686,51016.0,East,Rwamagana,16.0,952.799830112,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+687,51017.0,East,Rwamagana,4.0,877.058123329,1,280.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+688,51017.0,East,Rwamagana,4.0,877.058123329,1,280.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+689,51017.0,East,Rwamagana,4.0,877.058123329,1,280.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+690,51017.0,East,Rwamagana,6.0,14798.8472778,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+691,51017.0,East,Rwamagana,7.0,65493.8088726,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+692,51017.0,East,Rwamagana,8.0,26080.8296526,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+693,51017.0,East,Rwamagana,9.0,14983.6796006,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+694,51017.0,East,Rwamagana,10.0,29553.0332452,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+695,51018.0,East,Rwamagana,1.0,746365.625,0,0.0,1,NPK 17-17-17,5564000.0,Government & Market
+696,51018.0,East,Rwamagana,1.0,746365.625,0,0.0,1,Urea,1899250.0,Government & Market
+697,51019.0,East,Rwamagana,1.0,1096293.625,0,0.0,1,NPK 17-17-17,7740000.0,Government(MINAGRI/RAB/NAEB/District
+698,51020.0,East,Rwamagana,1.0,537212.5625,0,0.0,1,Urea,3400.0,Government(MINAGRI/RAB/NAEB/District
+699,51020.0,East,Rwamagana,1.0,537212.5625,0,0.0,1,NPK 17-17-17,6800.0,Government(MINAGRI/RAB/NAEB/District
+700,52001.0,East,Nyagatare,2.0,223185.135414,1,2700.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+701,52001.0,East,Nyagatare,2.0,223185.135414,1,2700.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+702,52001.0,East,Nyagatare,2.0,223185.135414,1,2700.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+703,52001.0,East,Nyagatare,4.0,10274.6710079,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+704,52001.0,East,Nyagatare,4.0,10274.6710079,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+705,52001.0,East,Nyagatare,4.0,10274.6710079,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+706,52001.0,East,Nyagatare,5.0,18896.9550169,1,1890.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+707,52001.0,East,Nyagatare,5.0,18896.9550169,1,1890.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+708,52001.0,East,Nyagatare,5.0,18896.9550169,1,1890.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+709,52002.0,East,Nyagatare,2.0,43447.0689729,1,3746.0,1,Urea,93010.0,Government(MINAGRI/RAB/NAEB/District
+710,52002.0,East,Nyagatare,2.0,43447.0689729,1,3746.0,1,DAP,184295.0,Government(MINAGRI/RAB/NAEB/District
+711,52002.0,East,Nyagatare,4.0,17800.123775,1,1533.0,1,Urea,40115.0,Government(MINAGRI/RAB/NAEB/District
+712,52002.0,East,Nyagatare,4.0,17800.123775,1,1533.0,1,DAP,79130.0,Government(MINAGRI/RAB/NAEB/District
+713,52002.0,East,Nyagatare,6.0,17097.5137476,1,1472.0,1,DAP,7286.5,Government(MINAGRI/RAB/NAEB/District
+714,52002.0,East,Nyagatare,6.0,17097.5137476,1,1472.0,1,Urea,36565.0,Government(MINAGRI/RAB/NAEB/District
+715,52002.0,East,Nyagatare,8.0,19020.8000591,1,1636.0,1,DAP,80360.0,Government(MINAGRI/RAB/NAEB/District
+716,52002.0,East,Nyagatare,8.0,19020.8000591,1,1636.0,1,Urea,40647.0,Government(MINAGRI/RAB/NAEB/District
+717,52002.0,East,Nyagatare,11.0,18735.0381813,1,1610.0,1,Urea,4082.5,Government(MINAGRI/RAB/NAEB/District
+718,52002.0,East,Nyagatare,11.0,18735.0381813,1,1610.0,1,DAP,79130.0,Government(MINAGRI/RAB/NAEB/District
+719,52003.0,East,Nyagatare,2.0,57615.8164381,1,8500.0,1,DAP,112750.0,Government(MINAGRI/RAB/NAEB/District
+720,52003.0,East,Nyagatare,3.0,12957.7678026,1,1500.0,1,DAP,12500.0,Government(MINAGRI/RAB/NAEB/District
+721,52003.0,East,Nyagatare,4.0,33203.0381337,1,2500.0,1,DAP,8200.0,Government(MINAGRI/RAB/NAEB/District
+722,52004.0,East,Nyagatare,2.0,61521.7391894,1,14760.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+723,52004.0,East,Nyagatare,2.0,61521.7391894,1,14760.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+724,52004.0,East,Nyagatare,2.0,61521.7391894,1,14760.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+725,52004.0,East,Nyagatare,3.0,36595.7801752,1,8780.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+726,52004.0,East,Nyagatare,3.0,36595.7801752,1,8780.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+727,52004.0,East,Nyagatare,3.0,36595.7801752,1,8780.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+728,52004.0,East,Nyagatare,4.0,2322.31928736,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+729,52004.0,East,Nyagatare,5.0,4673.17301272,1,1130.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+730,52004.0,East,Nyagatare,5.0,4673.17301272,1,1130.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+731,52004.0,East,Nyagatare,5.0,4673.17301272,1,1130.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+732,52004.0,East,Nyagatare,6.0,10183.6773872,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+733,52004.0,East,Nyagatare,7.0,5898.209605,1,1410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+734,52004.0,East,Nyagatare,7.0,5898.209605,1,1410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+735,52004.0,East,Nyagatare,7.0,5898.209605,1,1410.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+736,52004.0,East,Nyagatare,8.0,3161.54004987,1,760.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+737,52004.0,East,Nyagatare,8.0,3161.54004987,1,760.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+738,52004.0,East,Nyagatare,8.0,3161.54004987,1,760.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+739,52004.0,East,Nyagatare,9.0,16477.535058,1,3960.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+740,52004.0,East,Nyagatare,9.0,16477.535058,1,3960.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+741,52004.0,East,Nyagatare,9.0,16477.535058,1,3960.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+742,52004.0,East,Nyagatare,10.0,5594.9544097,1,1344.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+743,52004.0,East,Nyagatare,10.0,5594.9544097,1,1344.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+744,52004.0,East,Nyagatare,10.0,5594.9544097,1,1344.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+745,52006.0,East,Nyagatare,2.0,46023.2542783,1,1643.0,1,Urea,166500.0,Government(MINAGRI/RAB/NAEB/District
+746,52006.0,East,Nyagatare,2.0,46023.2542783,1,1643.0,1,DAP,184500.0,Government(MINAGRI/RAB/NAEB/District
+747,52006.0,East,Nyagatare,4.0,31929.4752089,1,1140.0,1,Urea,111000.0,Government(MINAGRI/RAB/NAEB/District
+748,52006.0,East,Nyagatare,4.0,31929.4752089,1,1140.0,1,DAP,123000.0,Government(MINAGRI/RAB/NAEB/District
+749,52006.0,East,Nyagatare,6.0,28901.6899986,1,1032.0,1,DAP,114800.0,Government(MINAGRI/RAB/NAEB/District
+750,52006.0,East,Nyagatare,6.0,28901.6899986,1,1032.0,1,Urea,103600.0,Government(MINAGRI/RAB/NAEB/District
+751,52006.0,East,Nyagatare,8.0,29515.8866163,1,1054.0,1,DAP,159900.0,Government(MINAGRI/RAB/NAEB/District
+752,52006.0,East,Nyagatare,8.0,29515.8866163,1,1054.0,1,Urea,144300.0,Government(MINAGRI/RAB/NAEB/District
+753,52006.0,East,Nyagatare,10.0,31459.5596565,1,1125.0,1,Urea,111000.0,Government(MINAGRI/RAB/NAEB/District
+754,52006.0,East,Nyagatare,10.0,31459.5596565,1,1125.0,1,DAP,123000.0,Government(MINAGRI/RAB/NAEB/District
+755,52007.0,East,Nyagatare,2.0,26326.2238523,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+756,52007.0,East,Nyagatare,4.0,4523.70934684,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+757,52007.0,East,Nyagatare,6.0,2084.09333736,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+758,52007.0,East,Nyagatare,7.0,410.090004014,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+759,52007.0,East,Nyagatare,8.0,5670.24799923,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+760,52007.0,East,Nyagatare,9.0,1758.08072604,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+761,52007.0,East,Nyagatare,14.0,5364.27992453,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+762,52007.0,East,Nyagatare,15.0,4343.91219591,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+763,52007.0,East,Nyagatare,16.0,23080.230914,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+764,52007.0,East,Nyagatare,18.0,42518.721783,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+765,52007.0,East,Nyagatare,19.0,6884.21607954,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+766,52007.0,East,Nyagatare,20.0,2378.03276992,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+767,52008.0,East,Nyagatare,2.0,23968.083936,1,13300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+768,52008.0,East,Nyagatare,2.0,23968.083936,1,13300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+769,52008.0,East,Nyagatare,2.0,23968.083936,1,13300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+770,52008.0,East,Nyagatare,3.0,36295.3887205,1,41800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+771,52008.0,East,Nyagatare,3.0,36295.3887205,1,41800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+772,52008.0,East,Nyagatare,3.0,36295.3887205,1,41800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+773,52008.0,East,Nyagatare,4.0,11511.4275287,1,4100.0,1,Urea,15170.0,Government(MINAGRI/RAB/NAEB/District
+774,52008.0,East,Nyagatare,4.0,11511.4275287,1,4100.0,1,DAP,16810.0,Government(MINAGRI/RAB/NAEB/District
+775,52008.0,East,Nyagatare,5.0,9066.95193218,1,7800.0,1,DAP,31980.0,Market
+776,52008.0,East,Nyagatare,5.0,9066.95193218,1,7800.0,1,Urea,28860.0,Market
+777,52008.0,East,Nyagatare,6.0,13380.149088,1,9600.0,1,Urea,17760.0,Government(MINAGRI/RAB/NAEB/District
+778,52008.0,East,Nyagatare,6.0,13380.149088,1,9600.0,1,DAP,39360.0,Government(MINAGRI/RAB/NAEB/District
+779,52010.0,East,Nyagatare,3.0,306006.872369,0,0.0,1,Urea,566100.0,Government(MINAGRI/RAB/NAEB/District
+780,52010.0,East,Nyagatare,3.0,306006.872369,0,0.0,1,DAP,1377000.0,Government(MINAGRI/RAB/NAEB/District
+781,52011.0,East,Nyagatare,3.0,6524.79720108,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+782,52011.0,East,Nyagatare,5.0,118497.501324,0,0.0,1,DAP,572000.0,Government(MINAGRI/RAB/NAEB/District
+783,52011.0,East,Nyagatare,5.0,118497.501324,0,0.0,1,Urea,550.0,Government(MINAGRI/RAB/NAEB/District
+784,52012.0,East,Nyagatare,2.0,55527.9966188,0,0.0,1,NPK 17-17-17,826.5,Other place (Specify)
+785,52012.0,East,Nyagatare,2.0,55527.9966188,0,0.0,1,Urea,413.0,Other place (Specify)
+786,52012.0,East,Nyagatare,4.0,578608.465795,0,0.0,1,Urea,4309.0,Other place (Specify)
+787,52012.0,East,Nyagatare,4.0,578608.465795,0,0.0,1,NPK 17-17-17,8618.0,Other place (Specify)
+788,52012.0,East,Nyagatare,5.0,631213.728919,0,0.0,1,NPK 17-17-17,10555.5,Other place (Specify)
+789,52012.0,East,Nyagatare,5.0,631213.728919,0,0.0,1,Urea,5278.0,Other place (Specify)
+790,52013.0,East,Nyagatare,1.0,1387444.95424,0,0.0,1,NPK 17-17-17,12095200.0,Government & Market
+791,52013.0,East,Nyagatare,1.0,1387444.95424,0,0.0,1,Urea,4907165.0,Government & Market
+792,52014.0,East,Nyagatare,1.0,1524520.09872,0,0.0,1,NPK 17-17-17,28476.0,Government & Market
+793,52014.0,East,Nyagatare,1.0,1524520.09872,0,0.0,1,Urea,13578.0,Government & Market
+794,52014.0,East,Nyagatare,3.0,1347666.65351,0,0.0,1,NPK 17-17-17,25173.0,Government & Market
+795,52014.0,East,Nyagatare,3.0,1347666.65351,0,0.0,1,Urea,12003.0,Government & Market
+796,52014.0,East,Nyagatare,4.0,349362.344972,0,0.0,1,NPK 17-17-17,6525.0,Government & Market
+797,52014.0,East,Nyagatare,4.0,349362.344972,0,0.0,1,Urea,3111.0,Government & Market
+798,52014.0,East,Nyagatare,6.0,25137.1365373,0,0.0,1,Urea,223.5,Government & Market
+799,52014.0,East,Nyagatare,6.0,25137.1365373,0,0.0,1,NPK 17-17-17,469.0,Government & Market
+800,52014.0,East,Nyagatare,7.0,347769.311452,0,0.0,1,Urea,3097.0,Government & Market
+801,52014.0,East,Nyagatare,7.0,347769.311452,0,0.0,1,NPK 17-17-17,6495.0,Government & Market
+802,52014.0,East,Nyagatare,9.0,433554.688714,0,0.0,1,NPK 17-17-17,80978.0,Government & Market
+803,52014.0,East,Nyagatare,9.0,433554.688714,0,0.0,1,Urea,3861.0,Government & Market
+804,52014.0,East,Nyagatare,11.0,30579.937348,0,0.0,1,Urea,272.5,Government & Market
+805,52014.0,East,Nyagatare,11.0,30579.937348,0,0.0,1,NPK 17-17-17,571.5,Government & Market
+806,52014.0,East,Nyagatare,12.0,56442.3289154,0,0.0,1,NPK 17-17-17,1055.0,Government & Market
+807,52014.0,East,Nyagatare,12.0,56442.3289154,0,0.0,1,Urea,503.0,Government & Market
+808,52014.0,East,Nyagatare,14.0,33301.3915585,0,0.0,1,Urea,296.5,Government & Market
+809,52014.0,East,Nyagatare,14.0,33301.3915585,0,0.0,1,NPK 17-17-17,622.0,Government & Market
+810,52014.0,East,Nyagatare,16.0,86205.3205915,0,0.0,1,NPK 17-17-17,1610.0,Government & Market
+811,52014.0,East,Nyagatare,16.0,86205.3205915,0,0.0,1,Urea,767.5,Government & Market
+812,52014.0,East,Nyagatare,18.0,61575.220485,0,0.0,1,NPK 17-17-17,1150.0,Government & Market
+813,52014.0,East,Nyagatare,18.0,61575.220485,0,0.0,1,Urea,767.5,Government & Market
+814,52014.0,East,Nyagatare,20.0,40512.8267505,0,0.0,1,Urea,360.5,Government & Market
+815,52014.0,East,Nyagatare,20.0,40512.8267505,0,0.0,1,NPK 17-17-17,756.0,Government & Market
+816,52015.0,East,Nyagatare,1.0,288487.322661,0,0.0,1,NPK 17-17-17,402900.0,Government(MINAGRI/RAB/NAEB/District
+817,52015.0,East,Nyagatare,1.0,288487.322661,0,0.0,1,Urea,420675.0,Government(MINAGRI/RAB/NAEB/District
+818,52015.0,East,Nyagatare,5.0,214168.991415,0,0.0,1,NPK 17-17-17,299115.0,Government(MINAGRI/RAB/NAEB/District
+819,52015.0,East,Nyagatare,5.0,214168.991415,0,0.0,1,Urea,312400.0,Government(MINAGRI/RAB/NAEB/District
+820,52015.0,East,Nyagatare,8.0,94895.530276,0,0.0,1,NPK 17-17-17,62730.0,Government(MINAGRI/RAB/NAEB/District
+821,52015.0,East,Nyagatare,8.0,94895.530276,0,0.0,1,Urea,65497.5,Government(MINAGRI/RAB/NAEB/District
+822,52016.0,East,Nyagatare,1.0,5200951.30642,0,0.0,1,DAP,23400.0,Other place (Specify)
+823,52016.0,East,Nyagatare,1.0,5200951.30642,0,0.0,1,Urea,28080.0,Other place (Specify)
+824,52016.0,East,Nyagatare,1.0,5200951.30642,0,0.0,1,KCL/MOP,30420.0,Other place (Specify)
+825,52016.0,East,Nyagatare,2.0,271893.473155,0,0.0,1,Urea,1620.0,Other place (Specify)
+826,52016.0,East,Nyagatare,2.0,271893.473155,0,0.0,1,DAP,1350.0,Other place (Specify)
+827,52016.0,East,Nyagatare,2.0,271893.473155,0,0.0,1,KCL/MOP,1755.0,Other place (Specify)
+828,52016.0,East,Nyagatare,3.0,269955.358055,0,0.0,1,KCL/MOP,1755.0,Other place (Specify)
+829,52016.0,East,Nyagatare,3.0,269955.358055,0,0.0,1,DAP,1350.0,Other place (Specify)
+830,52016.0,East,Nyagatare,3.0,269955.358055,0,0.0,1,Urea,1620.0,Other place (Specify)
+831,52016.0,East,Nyagatare,4.0,399102.878327,0,0.0,1,KCL/MOP,2405.0,Other place (Specify)
+832,52016.0,East,Nyagatare,4.0,399102.878327,0,0.0,1,DAP,1850.0,Other place (Specify)
+833,52016.0,East,Nyagatare,4.0,399102.878327,0,0.0,1,Urea,2220.0,Other place (Specify)
+834,52016.0,East,Nyagatare,5.0,406673.549347,0,0.0,1,KCL/MOP,2490.0,Other place (Specify)
+835,52016.0,East,Nyagatare,5.0,406673.549347,0,0.0,1,DAP,1900.0,Other place (Specify)
+836,52016.0,East,Nyagatare,5.0,406673.549347,0,0.0,1,Urea,2280.0,Other place (Specify)
+837,52016.0,East,Nyagatare,7.0,158016.169893,0,0.0,1,DAP,700.0,Other place (Specify)
+838,52016.0,East,Nyagatare,7.0,158016.169893,0,0.0,1,KCL/MOP,910.0,Other place (Specify)
+839,52016.0,East,Nyagatare,7.0,158016.169893,0,0.0,1,Urea,840.0,Other place (Specify)
+840,52017.0,East,Nyagatare,1.0,6029032.5,0,0.0,1,Urea,20250.0,Government & Market
+841,52017.0,East,Nyagatare,1.0,6029032.5,0,0.0,1,DAP,40500.0,Government & Market
+842,52018.0,East,Nyagatare,1.0,43167.68539,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+843,52018.0,East,Nyagatare,3.0,59159.802774,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+844,52019.0,East,Nyagatare,2.0,13319.4787289,1,5740.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+845,52019.0,East,Nyagatare,2.0,13319.4787289,1,5740.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+846,52019.0,East,Nyagatare,2.0,13319.4787289,1,5740.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+847,52019.0,East,Nyagatare,3.0,41823.5404726,1,8680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+848,52019.0,East,Nyagatare,3.0,41823.5404726,1,8680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+849,52019.0,East,Nyagatare,3.0,41823.5404726,1,8680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+850,52019.0,East,Nyagatare,4.0,4067.52673552,1,3600.0,1,DAP,150.0,Government(MINAGRI/RAB/NAEB/District
+851,52019.0,East,Nyagatare,5.0,7777.12194026,1,1780.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+852,52019.0,East,Nyagatare,5.0,7777.12194026,1,1780.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+853,52019.0,East,Nyagatare,5.0,7777.12194026,1,1780.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+854,52019.0,East,Nyagatare,6.0,9624.11349598,1,3360.0,1,DAP,100.0,Government(MINAGRI/RAB/NAEB/District
+855,52019.0,East,Nyagatare,6.0,9624.11349598,1,3360.0,1,Urea,200.0,Government(MINAGRI/RAB/NAEB/District
+856,52020.0,East,Nyagatare,1.0,8590023.0,0,0.0,1,Urea,43431.0,Government & Market
+857,52020.0,East,Nyagatare,1.0,8590023.0,0,0.0,1,NPK 17-17-17,86862.0,Government & Market
+858,52021.0,East,Nyagatare,1.0,97330.4174356,1,8500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+859,52021.0,East,Nyagatare,1.0,97330.4174356,1,8500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+860,52021.0,East,Nyagatare,1.0,97330.4174356,1,8500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+861,53001.0,East,Gatsibo,2.0,2272.49164584,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+862,53001.0,East,Gatsibo,3.0,14144.8798063,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+863,53001.0,East,Gatsibo,5.0,36098.1461161,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+864,53001.0,East,Gatsibo,6.0,14553.7421608,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+865,53001.0,East,Gatsibo,7.0,2824.74063647,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+866,53001.0,East,Gatsibo,8.0,28294.7815012,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+867,53002.0,East,Gatsibo,1.0,99780.4693035,1,2000.0,1,DAP,127500.0,Government & Market
+868,53002.0,East,Gatsibo,1.0,99780.4693035,1,2000.0,1,Urea,355500.0,Government & Market
+869,53002.0,East,Gatsibo,2.0,5028.99283565,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+870,53003.0,East,Gatsibo,1.0,88055.9366877,1,3500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+871,53003.0,East,Gatsibo,1.0,88055.9366877,1,3500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+872,53003.0,East,Gatsibo,1.0,88055.9366877,1,3500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+873,53003.0,East,Gatsibo,2.0,837.234817852,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+874,53003.0,East,Gatsibo,2.0,837.234817852,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+875,53003.0,East,Gatsibo,2.0,837.234817852,1,400.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+876,53003.0,East,Gatsibo,3.0,2387.28639305,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+877,53003.0,East,Gatsibo,3.0,2387.28639305,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+878,53003.0,East,Gatsibo,3.0,2387.28639305,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+879,53003.0,East,Gatsibo,8.0,18460.9706225,1,1800.0,1,Urea,204700.0,Government(MINAGRI/RAB/NAEB/District
+880,53003.0,East,Gatsibo,8.0,18460.9706225,1,1800.0,1,NPK 17-17-17,249200.0,Government(MINAGRI/RAB/NAEB/District
+881,53003.0,East,Gatsibo,9.0,4592.17324198,1,605.2,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+882,53003.0,East,Gatsibo,9.0,4592.17324198,1,605.2,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+883,53003.0,East,Gatsibo,9.0,4592.17324198,1,605.2,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+884,53003.0,East,Gatsibo,11.0,18203.0957142,1,2394.7,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+885,53003.0,East,Gatsibo,11.0,18203.0957142,1,2394.7,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+886,53003.0,East,Gatsibo,11.0,18203.0957142,1,2394.7,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+887,53004.0,East,Gatsibo,2.0,34293.0857461,1,1372.0,1,Urea,12565.0,Market
+888,53004.0,East,Gatsibo,2.0,34293.0857461,1,1372.0,1,DAP,35793.0,Market
+889,53004.0,East,Gatsibo,3.0,7544.56519565,1,3200.0,1,Urea,12780.0,Market
+890,53004.0,East,Gatsibo,3.0,7544.56519565,1,3200.0,1,DAP,35670.0,Market
+891,53004.0,East,Gatsibo,4.0,36541.6135722,1,1480.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+892,53004.0,East,Gatsibo,4.0,36541.6135722,1,1480.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+893,53004.0,East,Gatsibo,4.0,36541.6135722,1,1480.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+894,53004.0,East,Gatsibo,6.0,2976.32293814,1,1450.0,1,DAP,14350.0,Government(MINAGRI/RAB/NAEB/District
+895,53004.0,East,Gatsibo,6.0,2976.32293814,1,1450.0,1,Urea,5076.5,Government(MINAGRI/RAB/NAEB/District
+896,53004.0,East,Gatsibo,7.0,4607.12324525,1,2040.0,1,Urea,7810.0,Market
+897,53004.0,East,Gatsibo,7.0,4607.12324525,1,2040.0,1,DAP,21935.0,Market
+898,53004.0,East,Gatsibo,8.0,1302.3326703,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+899,53004.0,East,Gatsibo,9.0,1250.80363756,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+900,53004.0,East,Gatsibo,11.0,28715.4862664,1,1183.0,1,Urea,48812.0,Market
+901,53004.0,East,Gatsibo,11.0,28715.4862664,1,1183.0,1,DAP,136940.0,Market
+902,53004.0,East,Gatsibo,15.0,29230.5913719,1,1188.0,1,DAP,139400.0,Market
+903,53004.0,East,Gatsibo,15.0,29230.5913719,1,1188.0,1,Urea,49700.0,Market
+904,53004.0,East,Gatsibo,17.0,6153.22119723,1,2680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+905,53004.0,East,Gatsibo,17.0,6153.22119723,1,2680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+906,53004.0,East,Gatsibo,17.0,6153.22119723,1,2680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+907,53004.0,East,Gatsibo,19.0,1012.78151594,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+908,53004.0,East,Gatsibo,21.0,11622.9151282,1,10000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+909,53004.0,East,Gatsibo,21.0,11622.9151282,1,10000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+910,53004.0,East,Gatsibo,21.0,11622.9151282,1,10000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+911,53004.0,East,Gatsibo,22.0,14169.4231129,1,2000.0,1,Urea,71.0,Market
+912,53004.0,East,Gatsibo,22.0,14169.4231129,1,2000.0,1,DAP,71.0,Market
+913,53004.0,East,Gatsibo,24.0,1175.84977529,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+914,53004.0,East,Gatsibo,24.0,1175.84977529,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+915,53004.0,East,Gatsibo,24.0,1175.84977529,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+916,53004.0,East,Gatsibo,25.0,1674.43394699,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+917,53004.0,East,Gatsibo,26.0,595.846452926,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+918,53005.0,East,Gatsibo,1.0,15971.7833825,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+919,53005.0,East,Gatsibo,2.0,82913.4255524,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+920,53006.0,East,Gatsibo,2.0,3803.25149429,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+921,53006.0,East,Gatsibo,3.0,4239.3415742,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+922,53006.0,East,Gatsibo,3.0,4239.3415742,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+923,53006.0,East,Gatsibo,3.0,4239.3415742,1,750.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+924,53006.0,East,Gatsibo,4.0,21682.9003483,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+925,53006.0,East,Gatsibo,5.0,3914.7849888,1,350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+926,53006.0,East,Gatsibo,5.0,3914.7849888,1,350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+927,53006.0,East,Gatsibo,5.0,3914.7849888,1,350.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+928,53006.0,East,Gatsibo,6.0,2083.06684862,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+929,53006.0,East,Gatsibo,7.0,2583.93655986,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+930,53006.0,East,Gatsibo,8.0,16068.4041107,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+931,53007.0,East,Gatsibo,1.0,20445.8992885,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+932,53007.0,East,Gatsibo,1.0,20445.8992885,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+933,53007.0,East,Gatsibo,1.0,20445.8992885,1,3000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+934,53007.0,East,Gatsibo,2.0,130686.058034,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+935,53007.0,East,Gatsibo,2.0,130686.058034,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+936,53007.0,East,Gatsibo,2.0,130686.058034,1,6000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+937,53010.0,East,Gatsibo,2.0,24686.4217833,0,0.0,1,Urea,40000.0,Government & Market
+938,53010.0,East,Gatsibo,2.0,24686.4217833,0,0.0,1,NPK 17-17-17,67500.0,Government & Market
+939,53010.0,East,Gatsibo,6.0,3287.4514546,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+940,53010.0,East,Gatsibo,7.0,64178.8817485,1,5250.0,1,NPK 17-17-17,90000.0,Government & Market
+941,53010.0,East,Gatsibo,7.0,64178.8817485,1,5250.0,1,Urea,140000.0,Government & Market
+942,53010.0,East,Gatsibo,8.0,1740.79987541,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+943,53010.0,East,Gatsibo,10.0,5095.6315439,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+944,53010.0,East,Gatsibo,11.0,636.816121004,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+945,53010.0,East,Gatsibo,11.0,636.816121004,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+946,53010.0,East,Gatsibo,11.0,636.816121004,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+947,53010.0,East,Gatsibo,12.0,23457.9166966,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+948,53010.0,East,Gatsibo,13.0,3025.41202988,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+949,53011.0,East,Gatsibo,2.0,719.889705932,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+950,53011.0,East,Gatsibo,7.0,27551.1041617,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+951,53011.0,East,Gatsibo,7.0,27551.1041617,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+952,53011.0,East,Gatsibo,7.0,27551.1041617,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+953,53011.0,East,Gatsibo,8.0,19447.4578269,1,2437.0,1,Urea,39375.0,Government(MINAGRI/RAB/NAEB/District
+954,53011.0,East,Gatsibo,9.0,99937.7737352,1,1256.0,1,DAP,22550.0,Government(MINAGRI/RAB/NAEB/District
+955,53011.0,East,Gatsibo,9.0,99937.7737352,1,1256.0,1,Urea,202500.0,Government(MINAGRI/RAB/NAEB/District
+956,53012.0,East,Gatsibo,2.0,10780.3876248,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+957,53012.0,East,Gatsibo,2.0,10780.3876248,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+958,53012.0,East,Gatsibo,2.0,10780.3876248,1,4000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+959,53012.0,East,Gatsibo,4.0,10060.2370776,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+960,53012.0,East,Gatsibo,4.0,10060.2370776,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+961,53012.0,East,Gatsibo,4.0,10060.2370776,1,5000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+962,53012.0,East,Gatsibo,5.0,7189.68220501,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+963,53012.0,East,Gatsibo,6.0,3899.37375145,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+964,53012.0,East,Gatsibo,7.0,82602.4378595,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+965,53012.0,East,Gatsibo,8.0,8669.84946054,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+966,53012.0,East,Gatsibo,10.0,50624.7353901,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+967,53013.0,East,Gatsibo,1.0,319552.0625,1,4700.0,1,DAP,192700.0,Government(MINAGRI/RAB/NAEB/District
+968,53013.0,East,Gatsibo,1.0,319552.0625,1,4700.0,1,Urea,274950.0,Government(MINAGRI/RAB/NAEB/District
+969,53013.0,East,Gatsibo,2.0,19752.2937104,1,1980.0,1,DAP,81180.0,Government(MINAGRI/RAB/NAEB/District
+970,53013.0,East,Gatsibo,2.0,19752.2937104,1,1980.0,1,Urea,115830.0,Government(MINAGRI/RAB/NAEB/District
+971,53013.0,East,Gatsibo,10.0,64961.1579242,1,6500.0,1,DAP,266500.0,Government(MINAGRI/RAB/NAEB/District
+972,53013.0,East,Gatsibo,10.0,64961.1579242,1,6500.0,1,Urea,380250.0,Government(MINAGRI/RAB/NAEB/District
+973,53015.0,East,Gatsibo,1.0,511144.940768,0,0.0,1,DAP,1047960.0,Government & Market
+974,53015.0,East,Gatsibo,1.0,511144.940768,0,0.0,1,Urea,805140.0,Government & Market
+975,53015.0,East,Gatsibo,2.0,282827.849058,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+976,53015.0,East,Gatsibo,5.0,228094.840734,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+977,53015.0,East,Gatsibo,6.0,501198.038406,0,0.0,1,Urea,789550.0,Government & Market
+978,53015.0,East,Gatsibo,6.0,501198.038406,0,0.0,1,DAP,1027665.0,Government & Market
+979,53015.0,East,Gatsibo,7.0,296505.739638,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+980,53015.0,East,Gatsibo,8.0,321971.566741,0,0.0,1,Urea,507150.0,Government & Market
+981,53015.0,East,Gatsibo,8.0,321971.566741,0,0.0,1,DAP,660100.0,Government & Market
+982,53015.0,East,Gatsibo,9.0,959336.120155,0,0.0,1,Urea,1666980.0,Government & Market
+983,53015.0,East,Gatsibo,9.0,959336.120155,0,0.0,1,DAP,2169720.0,Government & Market
+984,53015.0,East,Gatsibo,10.0,518342.041225,0,0.0,1,Urea,974925.0,Government & Market
+985,53015.0,East,Gatsibo,10.0,518342.041225,0,0.0,1,DAP,1268950.0,Government & Market
+986,53015.0,East,Gatsibo,11.0,9855.12566311,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+987,53015.0,East,Gatsibo,12.0,207006.9241,0,0.0,1,Urea,326025.0,Government & Market
+988,53015.0,East,Gatsibo,12.0,207006.9241,0,0.0,1,DAP,424350.0,Government & Market
+989,53015.0,East,Gatsibo,13.0,102718.233715,0,0.0,1,DAP,211150.0,Government & Market
+990,53015.0,East,Gatsibo,13.0,102718.233715,0,0.0,1,Urea,161595.0,Government & Market
+991,53015.0,East,Gatsibo,14.0,114460.288142,0,0.0,1,DAP,234520.0,Government & Market
+992,53015.0,East,Gatsibo,14.0,114460.288142,0,0.0,1,Urea,180180.0,Government & Market
+993,53016.0,East,Gatsibo,1.0,9933827.0,0,0.0,1,DAP,38250.0,Government & Market
+994,53016.0,East,Gatsibo,1.0,9933827.0,0,0.0,1,Urea,140250.0,Government & Market
+995,53016.0,East,Gatsibo,1.0,9933827.0,0,0.0,1,NPK 17-17-17,43500.0,Government & Market
+996,53017.0,East,Gatsibo,2.0,66070.9940276,0,0.0,1,DAP,640.0,Government & Market
+997,53017.0,East,Gatsibo,4.0,321323.45288,0,0.0,1,DAP,3110.0,Government & Market
+998,53018.0,East,Gatsibo,1.0,4157249.5,0,0.0,1,Urea,27713.0,Government & Market
+999,53018.0,East,Gatsibo,1.0,4157249.5,0,0.0,1,NPK 17-17-17,48000.0,Government & Market
+1000,53019.0,East,Gatsibo,2.0,119206.953463,1,37500.0,1,DAP,225000.0,Government & Market
+1001,53019.0,East,Gatsibo,2.0,119206.953463,1,37500.0,1,Urea,180000.0,Government & Market
+1002,53019.0,East,Gatsibo,3.0,2810.66087328,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1003,53019.0,East,Gatsibo,5.0,86122.8899354,1,32000.0,1,Urea,144000.0,Government(MINAGRI/RAB/NAEB/District
+1004,53019.0,East,Gatsibo,5.0,86122.8899354,1,32000.0,1,DAP,157500.0,Government(MINAGRI/RAB/NAEB/District
+1005,53019.0,East,Gatsibo,6.0,715.472500368,1,900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1006,53019.0,East,Gatsibo,6.0,715.472500368,1,900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1007,53019.0,East,Gatsibo,6.0,715.472500368,1,900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1008,53019.0,East,Gatsibo,7.0,831.698542149,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1009,53019.0,East,Gatsibo,8.0,82664.5528143,1,20000.0,1,DAP,148500.0,Government(MINAGRI/RAB/NAEB/District
+1010,53019.0,East,Gatsibo,8.0,82664.5528143,1,20000.0,1,Urea,118800.0,Government(MINAGRI/RAB/NAEB/District
+1011,54002.0,East,Kayonza,2.0,45818.8194925,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1012,54002.0,East,Kayonza,2.0,45818.8194925,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1013,54002.0,East,Kayonza,2.0,45818.8194925,1,15000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1014,54002.0,East,Kayonza,3.0,1426.1864667,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1015,54002.0,East,Kayonza,5.0,4336.99145404,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1016,54002.0,East,Kayonza,5.0,4336.99145404,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1017,54002.0,East,Kayonza,5.0,4336.99145404,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1018,54003.0,East,Kayonza,2.0,140206.317062,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1019,54003.0,East,Kayonza,3.0,171284.465942,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1020,54003.0,East,Kayonza,4.0,62850.8741389,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1021,54003.0,East,Kayonza,5.0,220575.69358,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1022,54003.0,East,Kayonza,6.0,47109.2484055,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1023,54003.0,East,Kayonza,7.0,42765.9157009,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1024,54003.0,East,Kayonza,8.0,33956.766083,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1025,54003.0,East,Kayonza,9.0,36615.3709286,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1026,54003.0,East,Kayonza,10.0,22237.7010059,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1027,54003.0,East,Kayonza,11.0,11158.3894296,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1028,54003.0,East,Kayonza,12.0,4172.91203975,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1029,54003.0,East,Kayonza,13.0,29836.6079361,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1030,54003.0,East,Kayonza,14.0,2784.95627549,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1031,54003.0,East,Kayonza,15.0,14840.3925209,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1032,54003.0,East,Kayonza,16.0,38564.0266839,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1033,54003.0,East,Kayonza,17.0,86888.9116958,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1034,54003.0,East,Kayonza,18.0,90028.1516377,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1035,54003.0,East,Kayonza,19.0,8320.15251753,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1036,54003.0,East,Kayonza,20.0,12431.6557316,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1037,54003.0,East,Kayonza,21.0,21491.9611149,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1038,54003.0,East,Kayonza,22.0,69166.1170385,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1039,54003.0,East,Kayonza,23.0,34511.8001337,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1040,54003.0,East,Kayonza,24.0,9076.00858261,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1041,54003.0,East,Kayonza,25.0,23371.5097898,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1042,54003.0,East,Kayonza,26.0,11147.4811047,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1043,54004.0,East,Kayonza,2.0,34002.3373672,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1044,54004.0,East,Kayonza,2.0,34002.3373672,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1045,54004.0,East,Kayonza,2.0,34002.3373672,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1046,54004.0,East,Kayonza,3.0,21257.4794168,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1047,54004.0,East,Kayonza,5.0,4363.314793,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1048,54004.0,East,Kayonza,5.0,4363.314793,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1049,54004.0,East,Kayonza,5.0,4363.314793,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1050,54004.0,East,Kayonza,6.0,60044.3888116,1,6000.0,1,NPK 17-17-17,150.0,Market
+1051,54005.0,East,Kayonza,2.0,277271.703964,0,0.0,1,Urea,8875.0,Other place (Specify)
+1052,54005.0,East,Kayonza,2.0,277271.703964,0,0.0,1,NPK 17-17-17,26000.0,Other place (Specify)
+1053,54005.0,East,Kayonza,3.0,273462.936958,0,0.0,1,Urea,1846000.0,Other place (Specify)
+1054,54005.0,East,Kayonza,3.0,273462.936958,0,0.0,1,NPK 17-17-17,2704000.0,Other place (Specify)
+1055,54005.0,East,Kayonza,4.0,280239.363526,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1056,54005.0,East,Kayonza,5.0,133909.415454,0,0.0,1,NPK 17-17-17,1040000.0,Other place (Specify)
+1057,54005.0,East,Kayonza,5.0,133909.415454,0,0.0,1,Urea,355000.0,Other place (Specify)
+1058,54005.0,East,Kayonza,7.0,266198.254211,0,0.0,1,NPK 17-17-17,2704000.0,Other place (Specify)
+1059,54005.0,East,Kayonza,7.0,266198.254211,0,0.0,1,Other inorganic fertilizer (to specify),2548000.0,Other place (Specify)
+1060,54005.0,East,Kayonza,8.0,274429.048373,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1061,54005.0,East,Kayonza,13.0,267948.489682,0,0.0,1,Other inorganic fertilizer (to specify),2548000.0,Other place (Specify)
+1062,54005.0,East,Kayonza,13.0,267948.489682,0,0.0,1,NPK 17-17-17,2704000.0,Other place (Specify)
+1063,54005.0,East,Kayonza,14.0,286016.244897,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1064,54005.0,East,Kayonza,15.0,565299.349995,0,0.0,1,NPK 17-17-17,2215200.0,Other place (Specify)
+1065,54006.0,East,Kayonza,5.0,2576.68568584,1,230.0,1,NPK 17-17-17,2800.0,Market
+1066,54006.0,East,Kayonza,8.0,269045.543318,1,23770.0,1,NPK 17-17-17,277200.0,Market
+1067,54007.0,East,Kayonza,1.0,64006.3618889,0,0.0,1,DAP,1340.0,Government(MINAGRI/RAB/NAEB/District
+1068,54007.0,East,Kayonza,3.0,303097.118202,0,0.0,1,DAP,3031.0,Government(MINAGRI/RAB/NAEB/District
+1069,54007.0,East,Kayonza,4.0,148299.927072,0,0.0,1,NPK 20-10-10,1483.0,Government(MINAGRI/RAB/NAEB/District
+1070,54007.0,East,Kayonza,5.0,184069.224031,0,0.0,1,NPK 20-10-10,1841.0,Government(MINAGRI/RAB/NAEB/District
+1071,54007.0,East,Kayonza,6.0,101793.98441800001,0,0.0,1,DAP,1227.0,Government(MINAGRI/RAB/NAEB/District
+1072,54007.0,East,Kayonza,8.0,8444.1047105,0,0.0,1,DAP,84.0,Government(MINAGRI/RAB/NAEB/District
+1073,54007.0,East,Kayonza,9.0,24297.9834817,0,0.0,1,DAP,243.0,Government(MINAGRI/RAB/NAEB/District
+1074,54007.0,East,Kayonza,10.0,6727.9646213,0,0.0,1,DAP,67.0,Government(MINAGRI/RAB/NAEB/District
+1075,54007.0,East,Kayonza,11.0,25918.4040527,0,0.0,1,DAP,250.0,Government(MINAGRI/RAB/NAEB/District
+1076,54008.0,East,Kayonza,1.0,24870.6698519,0,0.0,1,Urea,249.0,Market
+1077,54008.0,East,Kayonza,1.0,24870.6698519,0,0.0,1,NPK 17-17-17,498.0,Market
+1078,54008.0,East,Kayonza,2.0,162697.154219,0,0.0,1,Urea,1627.0,Market
+1079,54008.0,East,Kayonza,2.0,162697.154219,0,0.0,1,NPK 17-17-17,3254.0,Market
+1080,54008.0,East,Kayonza,3.0,138546.249127,0,0.0,1,NPK 17-17-17,2494.0,Market
+1081,54008.0,East,Kayonza,3.0,138546.249127,0,0.0,1,Urea,1247.0,Market
+1082,54008.0,East,Kayonza,4.0,19640.7840772,0,0.0,1,NPK 17-17-17,372.0,Market
+1083,54008.0,East,Kayonza,4.0,19640.7840772,0,0.0,1,Urea,186.0,Market
+1084,54008.0,East,Kayonza,5.0,6322.4441257,0,0.0,1,NPK 17-17-17,114.0,Market
+1085,54008.0,East,Kayonza,5.0,6322.4441257,0,0.0,1,Urea,57.0,Market
+1086,54008.0,East,Kayonza,6.0,24177.447336,0,0.0,1,NPK 17-17-17,458.0,Market
+1087,54008.0,East,Kayonza,6.0,24177.447336,0,0.0,1,Urea,229.0,Market
+1088,54008.0,East,Kayonza,8.0,18241.5632626,0,0.0,1,Urea,172.0,Market
+1089,54008.0,East,Kayonza,8.0,18241.5632626,0,0.0,1,NPK 17-17-17,344.0,Market
+1090,54008.0,East,Kayonza,9.0,117651.295356,0,0.0,1,NPK 17-17-17,1882.0,Market
+1091,54008.0,East,Kayonza,9.0,117651.295356,0,0.0,1,Urea,941.0,Market
+1092,54008.0,East,Kayonza,10.0,2529.13901183,0,0.0,1,Urea,20.0,Market
+1093,54008.0,East,Kayonza,10.0,2529.13901183,0,0.0,1,NPK 17-17-17,40.0,Market
+1094,54008.0,East,Kayonza,11.0,10766.9272928,0,0.0,1,NPK 17-17-17,182.0,Market
+1095,54008.0,East,Kayonza,11.0,10766.9272928,0,0.0,1,Urea,91.0,Market
+1096,54008.0,East,Kayonza,12.0,62323.7798689,0,0.0,1,Urea,529.0,Market
+1097,54008.0,East,Kayonza,12.0,62323.7798689,0,0.0,1,NPK 17-17-17,1058.0,Market
+1098,54009.0,East,Kayonza,2.0,123579.415679,0,0.0,1,Urea,927.0,Government & Market
+1099,54009.0,East,Kayonza,2.0,123579.415679,0,0.0,1,NPK 17-17-17,1854.0,Government & Market
+1100,54009.0,East,Kayonza,3.0,3142.27872788,0,0.0,1,NPK 17-17-17,49.5,Government & Market
+1101,54009.0,East,Kayonza,3.0,3142.27872788,0,0.0,1,Urea,24.75,Government & Market
+1102,54009.0,East,Kayonza,8.0,204325.797094,0,0.0,1,NPK 17-17-17,3066.0,Government & Market
+1103,54009.0,East,Kayonza,8.0,204325.797094,0,0.0,1,Urea,1533.0,Government & Market
+1104,54009.0,East,Kayonza,9.0,29527.6425733,0,0.0,1,NPK 17-17-17,442.5,Government & Market
+1105,54009.0,East,Kayonza,9.0,29527.6425733,0,0.0,1,Urea,221.25,Government & Market
+1106,54009.0,East,Kayonza,11.0,257882.593066,0,0.0,1,Urea,1934.25,Government & Market
+1107,54009.0,East,Kayonza,11.0,257882.593066,0,0.0,1,NPK 17-17-17,3868.5,Government & Market
+1108,54009.0,East,Kayonza,15.0,942.905916648,0,0.0,1,Urea,7.7,Government & Market
+1109,54009.0,East,Kayonza,15.0,942.905916648,0,0.0,1,NPK 17-17-17,14.14,Government & Market
+1110,54009.0,East,Kayonza,16.0,3979.48125542,0,0.0,1,NPK 17-17-17,60.0,Government & Market
+1111,54009.0,East,Kayonza,16.0,3979.48125542,0,0.0,1,Urea,30.0,Government & Market
+1112,54009.0,East,Kayonza,17.0,9325.10623741,0,0.0,1,Urea,69.75,Government & Market
+1113,54009.0,East,Kayonza,17.0,9325.10623741,0,0.0,1,NPK 17-17-17,139.5,Government & Market
+1114,54009.0,East,Kayonza,21.0,1715.17962135,0,0.0,1,NPK 17-17-17,0.25,Government & Market
+1115,54009.0,East,Kayonza,21.0,1715.17962135,0,0.0,1,Urea,0.12,Government & Market
+1116,54009.0,East,Kayonza,23.0,1637.61299919,0,0.0,1,NPK 17-17-17,24.57,Government & Market
+1117,54009.0,East,Kayonza,23.0,1637.61299919,0,0.0,1,Urea,12.28,Government & Market
+1118,54009.0,East,Kayonza,30.0,56447.7682941,0,0.0,1,NPK 17-17-17,847.5,Government & Market
+1119,54009.0,East,Kayonza,30.0,56447.7682941,0,0.0,1,Urea,423.25,Government & Market
+1120,54009.0,East,Kayonza,31.0,1169.71519493,0,0.0,1,Urea,8.77,Government & Market
+1121,54009.0,East,Kayonza,31.0,1169.71519493,0,0.0,1,NPK 17-17-17,17.54,Government & Market
+1122,54009.0,East,Kayonza,32.0,33161.6839811,0,0.0,1,NPK 17-17-17,498.0,Government & Market
+1123,54009.0,East,Kayonza,32.0,33161.6839811,0,0.0,1,Urea,249.0,Government & Market
+1124,54009.0,East,Kayonza,33.0,14572.5857679,0,0.0,1,Urea,109.5,Government & Market
+1125,54009.0,East,Kayonza,33.0,14572.5857679,0,0.0,1,NPK 17-17-17,219.0,Government & Market
+1126,54009.0,East,Kayonza,38.0,221652.437252,0,0.0,1,Urea,1662.75,Government & Market
+1127,54009.0,East,Kayonza,38.0,221652.437252,0,0.0,1,NPK 17-17-17,3325.5,Government & Market
+1128,54009.0,East,Kayonza,39.0,317173.023266,0,0.0,1,Urea,3103.5,Government & Market
+1129,54009.0,East,Kayonza,39.0,317173.023266,0,0.0,1,NPK 17-17-17,6207.0,Government & Market
+1130,54009.0,East,Kayonza,41.0,6664.80796009,0,0.0,1,NPK 17-17-17,100.5,Government & Market
+1131,54009.0,East,Kayonza,41.0,6664.80796009,0,0.0,1,Urea,50.25,Government & Market
+1132,54009.0,East,Kayonza,42.0,6639.26214331,0,0.0,1,NPK 17-17-17,99.5,Government & Market
+1133,54009.0,East,Kayonza,42.0,6639.26214331,0,0.0,1,Urea,49.5,Government & Market
+1134,54009.0,East,Kayonza,44.0,43721.1642671,0,0.0,1,Urea,327.75,Government & Market
+1135,54009.0,East,Kayonza,44.0,43721.1642671,0,0.0,1,NPK 17-17-17,655.5,Government & Market
+1136,54009.0,East,Kayonza,49.0,282598.175707,0,0.0,1,Urea,2119.5,Government & Market
+1137,54009.0,East,Kayonza,49.0,282598.175707,0,0.0,1,NPK 17-17-17,4239.0,Government & Market
+1138,54009.0,East,Kayonza,51.0,23032.7324272,0,0.0,1,Urea,172.5,Government & Market
+1139,54009.0,East,Kayonza,51.0,23032.7324272,0,0.0,1,NPK 17-17-17,345.0,Government & Market
+1140,54009.0,East,Kayonza,52.0,61332.4229049,0,0.0,1,Urea,455.25,Government & Market
+1141,54009.0,East,Kayonza,52.0,61332.4229049,0,0.0,1,NPK 17-17-17,910.5,Government & Market
+1142,54009.0,East,Kayonza,54.0,14209.8638586,0,0.0,1,NPK 17-17-17,213.0,Government & Market
+1143,54009.0,East,Kayonza,54.0,14209.8638586,0,0.0,1,Urea,106.5,Government & Market
+1144,54010.0,East,Kayonza,1.0,143167.087488,0,0.0,1,Urea,301500.0,Government & Market
+1145,54010.0,East,Kayonza,1.0,143167.087488,0,0.0,1,NPK 17-17-17,904500.0,Government & Market
+1146,54010.0,East,Kayonza,2.0,225940.655186,0,0.0,1,NPK 17-17-17,1427400.0,Government & Market
+1147,54010.0,East,Kayonza,2.0,225940.655186,0,0.0,1,Urea,475800.0,Government & Market
+1148,54010.0,East,Kayonza,3.0,66082.7997747,0,0.0,1,Urea,139200.0,Government & Market
+1149,54010.0,East,Kayonza,3.0,66082.7997747,0,0.0,1,NPK 17-17-17,417600.0,Government & Market
+1150,54010.0,East,Kayonza,4.0,20583.4289707,0,0.0,1,NPK 17-17-17,130050.0,Government & Market
+1151,54010.0,East,Kayonza,4.0,20583.4289707,0,0.0,1,Urea,43350.0,Government & Market
+1152,55001.0,East,Kirehe,4.0,42686.1172262,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1153,55001.0,East,Kirehe,4.0,42686.1172262,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1154,55001.0,East,Kirehe,4.0,42686.1172262,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1155,55001.0,East,Kirehe,5.0,21080.335708,1,10000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1156,55001.0,East,Kirehe,5.0,21080.335708,1,10000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1157,55001.0,East,Kirehe,5.0,21080.335708,1,10000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1158,55001.0,East,Kirehe,10.0,0.0,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1159,55001.0,East,Kirehe,11.0,2471.50966223,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1160,55001.0,East,Kirehe,11.0,2471.50966223,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1161,55001.0,East,Kirehe,11.0,2471.50966223,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1162,55002.0,East,Kirehe,3.0,30635.6846269,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1163,55002.0,East,Kirehe,4.0,48900.1660439,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1164,55002.0,East,Kirehe,5.0,168324.133083,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1165,55003.0,East,Kirehe,2.0,4733639.5,0,0.0,1,NPK 17-17-17,187.7,Government & Market
+1166,55003.0,East,Kirehe,2.0,4733639.5,0,0.0,1,Urea,145.7,Government & Market
+1167,55003.0,East,Kirehe,2.0,4733639.5,0,0.0,1,DAP,90.7,Government & Market
+1168,55004.0,East,Kirehe,2.0,1293893.25,0,0.0,1,NPK 17-17-17,18400.0,Government(MINAGRI/RAB/NAEB/District
+1169,55004.0,East,Kirehe,2.0,1293893.25,0,0.0,1,Urea,9200.0,Government(MINAGRI/RAB/NAEB/District
+1170,55005.0,East,Kirehe,1.0,841066.8125,1,53000.0,1,Urea,8100.0,Government & Market
+1171,55005.0,East,Kirehe,1.0,841066.8125,1,53000.0,1,NPK 17-17-17,9400.0,Government & Market
+1172,55006.0,East,Kirehe,1.0,515686.90625,0,0.0,1,Urea,4500.0,Government & Market
+1173,55006.0,East,Kirehe,1.0,515686.90625,0,0.0,1,NPK 17-17-17,9000.0,Government & Market
+1174,55007.0,East,Kirehe,1.0,107921.740976,0,0.0,1,NPK 17-17-17,2000.0,Market
+1175,55007.0,East,Kirehe,1.0,107921.740976,0,0.0,1,Urea,1000.0,Market
+1176,56001.0,East,Ngoma,1.0,20507.3683433,0,0.0,1,DAP,125.0,Government(MINAGRI/RAB/NAEB/District
+1177,56001.0,East,Ngoma,1.0,20507.3683433,0,0.0,1,Urea,75.0,Government(MINAGRI/RAB/NAEB/District
+1178,56001.0,East,Ngoma,3.0,23878.9057063,0,0.0,1,Urea,87.0,Government(MINAGRI/RAB/NAEB/District
+1179,56001.0,East,Ngoma,3.0,23878.9057063,0,0.0,1,DAP,145.5,Government(MINAGRI/RAB/NAEB/District
+1180,56001.0,East,Ngoma,6.0,64204.7630194,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1181,56001.0,East,Ngoma,8.0,8303.14148478,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1182,56001.0,East,Ngoma,9.0,15169.2582715,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1183,56001.0,East,Ngoma,11.0,27682.2795095,0,0.0,1,DAP,169.0,Government(MINAGRI/RAB/NAEB/District
+1184,56001.0,East,Ngoma,11.0,27682.2795095,0,0.0,1,Urea,101.0,Government(MINAGRI/RAB/NAEB/District
+1185,56001.0,East,Ngoma,13.0,9914.76141857,0,0.0,1,Urea,12780.0,Government(MINAGRI/RAB/NAEB/District
+1186,56001.0,East,Ngoma,13.0,9914.76141857,0,0.0,1,DAP,60.0,Government(MINAGRI/RAB/NAEB/District
+1187,56002.0,East,Ngoma,1.0,85463.328125,0,0.0,1,DAP,800.0,Government(MINAGRI/RAB/NAEB/District
+1188,56002.0,East,Ngoma,1.0,85463.328125,0,0.0,1,Urea,400.0,Government(MINAGRI/RAB/NAEB/District
+1189,56002.0,East,Ngoma,2.0,21230.507509,0,0.0,1,DAP,200.0,Government(MINAGRI/RAB/NAEB/District
+1190,56002.0,East,Ngoma,2.0,21230.507509,0,0.0,1,Urea,100.0,Government(MINAGRI/RAB/NAEB/District
+1191,56003.0,East,Ngoma,1.0,67497.699141,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1192,56003.0,East,Ngoma,1.0,67497.699141,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1193,56003.0,East,Ngoma,1.0,67497.699141,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1194,56003.0,East,Ngoma,3.0,175267.615237,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1195,56003.0,East,Ngoma,3.0,175267.615237,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1196,56003.0,East,Ngoma,3.0,175267.615237,1,16000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1197,56004.0,East,Ngoma,1.0,461999.4375,0,0.0,1,Urea,4617.0,Market
+1198,56004.0,East,Ngoma,1.0,461999.4375,0,0.0,1,NPK 17-17-17,9234.0,Market
+1199,56005.0,East,Ngoma,1.0,1137444.625,0,0.0,1,NPK 17-17-17,22200.0,Market
+1200,56005.0,East,Ngoma,1.0,1137444.625,0,0.0,1,Urea,11100.0,Market
+1201,56006.0,East,Ngoma,1.0,1352201.125,0,0.0,1,Urea,12166.0,Government & Market
+1202,56006.0,East,Ngoma,1.0,1352201.125,0,0.0,1,NPK 17-17-17,24332.0,Government & Market
+1203,56007.0,East,Ngoma,1.0,897147.25,0,0.0,1,Urea,9043.0,Government(MINAGRI/RAB/NAEB/District
+1204,56007.0,East,Ngoma,1.0,897147.25,0,0.0,1,NPK 17-17-17,18096.0,Government(MINAGRI/RAB/NAEB/District
+1205,56008.0,East,Ngoma,1.0,536351.9375,0,0.0,1,NPK 17-17-17,3000.0,Market
+1206,56008.0,East,Ngoma,1.0,536351.9375,0,0.0,1,Urea,1500.0,Market
+1207,56009.0,East,Ngoma,3.0,1183229.5,0,0.0,1,Urea,5400.0,Government & Market
+1208,56009.0,East,Ngoma,3.0,1183229.5,0,0.0,1,NPK 17-17-17,10800.0,Government & Market
+1209,56010.0,East,Ngoma,1.0,2034599.0,0,0.0,1,Urea,15596.0,Other place (Specify)
+1210,56010.0,East,Ngoma,1.0,2034599.0,0,0.0,1,NPK 17-17-17,31182.0,Other place (Specify)
+1211,56011.0,East,Ngoma,2.0,836.622673131,1,5000.0,1,Urea,4.0,Government & Market
+1212,56011.0,East,Ngoma,3.0,6246.32972839,1,2500.0,1,Urea,1.0,Government & Market
+1213,56011.0,East,Ngoma,4.0,543.194547802,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1214,56011.0,East,Ngoma,4.0,543.194547802,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1215,56011.0,East,Ngoma,4.0,543.194547802,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1216,56011.0,East,Ngoma,6.0,933.601589405,1,1300.0,1,DAP,1.0,Government & Market
+1217,56011.0,East,Ngoma,8.0,4292.42694624,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1218,56011.0,East,Ngoma,8.0,4292.42694624,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1219,56011.0,East,Ngoma,8.0,4292.42694624,1,800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1220,56011.0,East,Ngoma,9.0,56773.6470546,1,28400.0,1,NPK 17-17-17,1136.0,Government & Market
+1221,56011.0,East,Ngoma,12.0,45123.7674743,1,22550.0,1,NPK 17-17-17,676.5,Government & Market
+1222,56011.0,East,Ngoma,15.0,38437.8718482,1,19200.0,1,NPK 17-17-17,576.0,Government & Market
+1223,56011.0,East,Ngoma,17.0,41987.469233,1,19700.0,1,NPK 17-17-17,591.0,Government & Market
+1224,56011.0,East,Ngoma,27.0,9423.51952806,1,4750.0,1,DAP,99.0,Government & Market
+1225,56011.0,East,Ngoma,27.0,9423.51952806,1,4750.0,1,Urea,49.0,Government & Market
+1226,56011.0,East,Ngoma,28.0,9232.54955371,1,5200.0,1,Urea,54.0,Government & Market
+1227,56011.0,East,Ngoma,28.0,9232.54955371,1,5200.0,1,DAP,108.0,Government & Market
+1228,56011.0,East,Ngoma,30.0,2204.97197288,1,2053.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1229,56011.0,East,Ngoma,30.0,2204.97197288,1,2053.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1230,56011.0,East,Ngoma,30.0,2204.97197288,1,2053.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1231,56011.0,East,Ngoma,31.0,12236.6394647,1,6350.0,1,DAP,132.0,Government(MINAGRI/RAB/NAEB/District
+1232,56011.0,East,Ngoma,31.0,12236.6394647,1,6350.0,1,Urea,66.0,Government(MINAGRI/RAB/NAEB/District
+1233,56011.0,East,Ngoma,35.0,19830.4114188,1,10200.0,1,Urea,106.0,Government(MINAGRI/RAB/NAEB/District
+1234,56011.0,East,Ngoma,35.0,19830.4114188,1,10200.0,1,DAP,212.0,Government(MINAGRI/RAB/NAEB/District
+1235,56011.0,East,Ngoma,40.0,5065.03891645,1,2350.0,1,DAP,49.0,Government & Market
+1236,56011.0,East,Ngoma,40.0,5065.03891645,1,2350.0,1,Urea,21.0,Government & Market
+1237,57001.0,East,Bugesera,1.0,82177.6410543,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1238,57001.0,East,Bugesera,10.0,282.79386072,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1239,57002.0,East,Bugesera,1.0,669275.875,0,0.0,1,Urea,3250.0,Government(MINAGRI/RAB/NAEB/District
+1240,57002.0,East,Bugesera,1.0,669275.875,0,0.0,1,NPK 17-17-17,6400.0,Government(MINAGRI/RAB/NAEB/District
+1241,57003.0,East,Bugesera,1.0,21699.560921,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1242,57003.0,East,Bugesera,1.0,21699.560921,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1243,57003.0,East,Bugesera,1.0,21699.560921,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1244,57003.0,East,Bugesera,2.0,10380.2118124,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1245,57003.0,East,Bugesera,3.0,23108.831422,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1246,57003.0,East,Bugesera,3.0,23108.831422,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1247,57003.0,East,Bugesera,3.0,23108.831422,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1248,57003.0,East,Bugesera,5.0,12884.2047541,1,24000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1249,57003.0,East,Bugesera,5.0,12884.2047541,1,24000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1250,57003.0,East,Bugesera,5.0,12884.2047541,1,24000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1251,57003.0,East,Bugesera,7.0,6636.27439945,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1252,57003.0,East,Bugesera,7.0,6636.27439945,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1253,57003.0,East,Bugesera,7.0,6636.27439945,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1254,57003.0,East,Bugesera,10.0,2324.49423333,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1255,57003.0,East,Bugesera,11.0,1206.88623944,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1256,57003.0,East,Bugesera,13.0,34129.7208653,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1257,57003.0,East,Bugesera,15.0,38209.1540327,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1258,57003.0,East,Bugesera,16.0,16738.3512734,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1259,57004.0,Kigali,Bugesera,1.0,47163.9717382,1,4200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1260,57004.0,Kigali,Bugesera,1.0,47163.9717382,1,4200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1261,57004.0,Kigali,Bugesera,1.0,47163.9717382,1,4200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1262,57004.0,Kigali,Bugesera,2.0,63054.0557035,1,4900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1263,57004.0,Kigali,Bugesera,2.0,63054.0557035,1,4900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1264,57004.0,Kigali,Bugesera,2.0,63054.0557035,1,4900.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1265,57005.0,East,Bugesera,1.0,53751.5228173,1,3228.0,1,DAP,538.0,Government & Market
+1266,57005.0,East,Bugesera,2.0,13747.0582221,1,822.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1267,57005.0,East,Bugesera,2.0,13747.0582221,1,822.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1268,57005.0,East,Bugesera,2.0,13747.0582221,1,822.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1269,57005.0,East,Bugesera,5.0,52739.4828702,1,3162.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1270,57005.0,East,Bugesera,5.0,52739.4828702,1,3162.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1271,57005.0,East,Bugesera,5.0,52739.4828702,1,3162.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1272,57006.0,East,Bugesera,1.0,43700.6943868,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1273,57006.0,East,Bugesera,2.0,141532.842422,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1274,57006.0,East,Bugesera,3.0,34952.2104098,0,0.0,1,Urea,175.0,Market
+1275,57006.0,East,Bugesera,3.0,34952.2104098,0,0.0,1,DAP,350.0,Market
+1276,57006.0,East,Bugesera,4.0,42516.4668118,0,0.0,1,DAP,425.0,Market
+1277,57006.0,East,Bugesera,4.0,42516.4668118,0,0.0,1,Urea,212.0,Market
+1278,57006.0,East,Bugesera,6.0,124897.38103,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1279,57006.0,East,Bugesera,7.0,12724.046136,0,0.0,1,DAP,120.0,Market
+1280,57006.0,East,Bugesera,7.0,12724.046136,0,0.0,1,Urea,60.0,Market
+1281,57006.0,East,Bugesera,8.0,50933.9554608,0,0.0,1,DAP,512.0,Market
+1282,57006.0,East,Bugesera,8.0,50933.9554608,0,0.0,1,Urea,256.0,Market
+1283,57006.0,East,Bugesera,9.0,12277.9823438,0,0.0,1,Urea,61.0,Market
+1284,57006.0,East,Bugesera,9.0,12277.9823438,0,0.0,1,DAP,123.0,Market
+1285,57006.0,East,Bugesera,11.0,576.748388206,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1286,57006.0,East,Bugesera,11.0,576.748388206,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1287,57006.0,East,Bugesera,11.0,576.748388206,1,500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1288,57006.0,East,Bugesera,12.0,2775.25124568,1,2800.0,1,Other inorganic fertilizer (to specify),1.0,Market
+1289,57006.0,East,Bugesera,13.0,3795.90462617,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1290,57006.0,East,Bugesera,13.0,3795.90462617,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1291,57006.0,East,Bugesera,13.0,3795.90462617,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1292,57006.0,East,Bugesera,14.0,3080.90301561,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1293,57006.0,East,Bugesera,14.0,3080.90301561,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1294,57006.0,East,Bugesera,14.0,3080.90301561,1,3100.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1295,57006.0,East,Bugesera,15.0,2074.02598367,1,2074.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1296,57006.0,East,Bugesera,15.0,2074.02598367,1,2074.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1297,57006.0,East,Bugesera,15.0,2074.02598367,1,2074.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1298,57006.0,East,Bugesera,16.0,813.919541416,1,814.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1299,57006.0,East,Bugesera,16.0,813.919541416,1,814.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1300,57006.0,East,Bugesera,16.0,813.919541416,1,814.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1301,57006.0,East,Bugesera,17.0,885.361947102,1,885.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1302,57006.0,East,Bugesera,17.0,885.361947102,1,885.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1303,57006.0,East,Bugesera,17.0,885.361947102,1,885.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1304,57006.0,East,Bugesera,18.0,872.440332152,1,858.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1305,57006.0,East,Bugesera,18.0,872.440332152,1,858.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1306,57006.0,East,Bugesera,18.0,872.440332152,1,858.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1307,57006.0,East,Bugesera,20.0,1513.13994119,1,1513.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1308,57006.0,East,Bugesera,20.0,1513.13994119,1,1513.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1309,57006.0,East,Bugesera,20.0,1513.13994119,1,1513.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1310,57006.0,East,Bugesera,21.0,699.121074026,1,689.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1311,57006.0,East,Bugesera,21.0,699.121074026,1,689.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1312,57006.0,East,Bugesera,21.0,699.121074026,1,689.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1313,57006.0,East,Bugesera,22.0,636.19919645,1,636.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1314,57006.0,East,Bugesera,22.0,636.19919645,1,636.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1315,57006.0,East,Bugesera,22.0,636.19919645,1,636.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1316,57006.0,East,Bugesera,23.0,1391.62781679,1,1300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1317,57006.0,East,Bugesera,23.0,1391.62781679,1,1300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1318,57006.0,East,Bugesera,23.0,1391.62781679,1,1300.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1319,57006.0,East,Bugesera,24.0,1504.34045067,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1320,57006.0,East,Bugesera,24.0,1504.34045067,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1321,57006.0,East,Bugesera,24.0,1504.34045067,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1322,57006.0,East,Bugesera,25.0,690.920850324,1,690.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1323,57006.0,East,Bugesera,25.0,690.920850324,1,690.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1324,57006.0,East,Bugesera,25.0,690.920850324,1,690.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1325,57006.0,East,Bugesera,27.0,682.413923184,1,680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1326,57006.0,East,Bugesera,27.0,682.413923184,1,680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1327,57006.0,East,Bugesera,27.0,682.413923184,1,680.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1328,57006.0,East,Bugesera,32.0,4752.77072091,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1329,57006.0,East,Bugesera,34.0,84760.9232021,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1330,57006.0,East,Bugesera,36.0,79439.6198259,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1331,57006.0,East,Bugesera,38.0,88442.9542284,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1332,57007.0,East,Bugesera,1.0,399747.75,0,0.0,1,NPK 17-17-17,5000.0,Government(MINAGRI/RAB/NAEB/District
+1333,57007.0,East,Bugesera,1.0,399747.75,0,0.0,1,Urea,2500.0,Government(MINAGRI/RAB/NAEB/District
+1334,57008.0,East,Bugesera,1.0,454612.09375,1,44750.0,1,Urea,2000.0,Government(MINAGRI/RAB/NAEB/District
+1335,57008.0,East,Bugesera,1.0,454612.09375,1,44750.0,1,NPK 17-17-17,4000.0,Government(MINAGRI/RAB/NAEB/District
+1336,57009.0,East,Bugesera,2.0,374514.0625,1,373300.0,1,NPK 17-17-17,6400.0,Market
+1337,57009.0,East,Bugesera,2.0,374514.0625,1,373300.0,1,Urea,3200.0,Market
+1338,57010.0,East,Bugesera,1.0,1139.32543097,1,1000.0,1,NPK 17-17-17,50.0,Market
+1339,57010.0,East,Bugesera,1.0,1139.32543097,1,1000.0,1,Urea,50.0,Market
+1340,57010.0,East,Bugesera,2.0,397.959739559,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1341,57010.0,East,Bugesera,2.0,397.959739559,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1342,57010.0,East,Bugesera,2.0,397.959739559,1,1500.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1343,57010.0,East,Bugesera,3.0,885.466235386,1,1700.0,1,Urea,1.0,Market
+1344,57010.0,East,Bugesera,3.0,885.466235386,1,1700.0,1,DAP,1.25,Market
+1345,57010.0,East,Bugesera,3.0,885.466235386,1,1700.0,1,NPK 17-17-17,1.25,Market
+1346,57010.0,East,Bugesera,4.0,1600.88033768,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1347,57010.0,East,Bugesera,4.0,1600.88033768,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1348,57010.0,East,Bugesera,4.0,1600.88033768,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1349,57010.0,East,Bugesera,5.0,1540.17332562,1,2000.0,1,NPK 17-17-17,5.0,Market
+1350,57010.0,East,Bugesera,6.0,1761.69989285,1,20000.0,1,NPK 17-17-17,5.0,Market
+1351,57010.0,East,Bugesera,7.0,1043.94932558,1,400.0,1,NPK 17-17-17,2.0,Market
+1352,57010.0,East,Bugesera,8.0,1234.57188516,1,20000.0,1,NPK 17-17-17,2.0,Market
+1353,57010.0,East,Bugesera,9.0,3080.54814877,1,20800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1354,57010.0,East,Bugesera,9.0,3080.54814877,1,20800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1355,57010.0,East,Bugesera,9.0,3080.54814877,1,20800.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1356,57010.0,East,Bugesera,10.0,264.969021894,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1357,57010.0,East,Bugesera,10.0,264.969021894,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1358,57010.0,East,Bugesera,10.0,264.969021894,1,200.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1359,57010.0,East,Bugesera,11.0,1511.29773469,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1360,57010.0,East,Bugesera,11.0,1511.29773469,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1361,57010.0,East,Bugesera,11.0,1511.29773469,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1362,57010.0,East,Bugesera,12.0,1155.92459455,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1363,57010.0,East,Bugesera,12.0,1155.92459455,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1364,57010.0,East,Bugesera,12.0,1155.92459455,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1365,57010.0,East,Bugesera,13.0,677.355451358,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1366,57010.0,East,Bugesera,13.0,677.355451358,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1367,57010.0,East,Bugesera,13.0,677.355451358,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1368,57010.0,East,Bugesera,14.0,941.510281537,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1369,57010.0,East,Bugesera,14.0,941.510281537,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1370,57010.0,East,Bugesera,14.0,941.510281537,1,1000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1371,57010.0,East,Bugesera,15.0,647.774532636,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1372,57010.0,East,Bugesera,15.0,647.774532636,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1373,57010.0,East,Bugesera,15.0,647.774532636,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1374,57010.0,East,Bugesera,16.0,996.760072639,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1375,57010.0,East,Bugesera,16.0,996.760072639,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1376,57010.0,East,Bugesera,16.0,996.760072639,1,20000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1377,57010.0,East,Bugesera,18.0,145164.797402,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1378,57010.0,East,Bugesera,21.0,5524.7495255,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1379,57010.0,East,Bugesera,22.0,3577.55356335,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1380,57010.0,East,Bugesera,23.0,2856.55714715,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1381,57011.0,East,Bugesera,1.0,57438.5398725,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1382,57011.0,East,Bugesera,1.0,57438.5398725,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1383,57011.0,East,Bugesera,1.0,57438.5398725,1,2000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1384,57011.0,East,Bugesera,2.0,40684.8448858,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1385,57011.0,East,Bugesera,2.0,40684.8448858,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1386,57011.0,East,Bugesera,2.0,40684.8448858,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1387,57011.0,East,Bugesera,5.0,22869.3712088,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1388,57011.0,East,Bugesera,6.0,29285.6556901,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1389,57011.0,East,Bugesera,6.0,29285.6556901,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1390,57011.0,East,Bugesera,6.0,29285.6556901,1,8000.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1391,57011.0,East,Bugesera,7.0,32492.8101036,1,3600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1392,57011.0,East,Bugesera,7.0,32492.8101036,1,3600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1393,57011.0,East,Bugesera,7.0,32492.8101036,1,3600.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1394,57012.0,East,Bugesera,2.0,15894.0068339,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1395,57012.0,East,Bugesera,3.0,3265.91024283,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1396,57012.0,East,Bugesera,5.0,56122.2377938,0,0.0,1,DAP,360.4,Government & Market
+1397,57012.0,East,Bugesera,5.0,56122.2377938,0,0.0,1,Urea,180.2,Government & Market
+1398,57012.0,East,Bugesera,7.0,132.894891948,0,0.0,1,Urea,0.6,Government & Market
+1399,57012.0,East,Bugesera,7.0,132.894891948,0,0.0,1,DAP,1.2,Government & Market
+1400,57012.0,East,Bugesera,9.0,2248.06727221,0,0.0,1,Urea,7.2,Government & Market
+1401,57012.0,East,Bugesera,9.0,2248.06727221,0,0.0,1,DAP,14.4,Government & Market
+1402,57012.0,East,Bugesera,10.0,2478.43172622,0,0.0,1,DAP,16.0,Government & Market
+1403,57012.0,East,Bugesera,10.0,2478.43172622,0,0.0,1,Urea,8.0,Government & Market
+1404,57012.0,East,Bugesera,13.0,1285.16094318,0,0.0,1,DAP,8.0,Government & Market
+1405,57012.0,East,Bugesera,13.0,1285.16094318,0,0.0,1,Urea,4.0,Government & Market
+1406,57012.0,East,Bugesera,15.0,267.695406824,0,0.0,1,Other inorganic fertilizer (to specify),1.66,Market
+1407,57012.0,East,Bugesera,16.0,1724.26303921,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1408,57012.0,East,Bugesera,18.0,998.882613446,0,0.0,1,Other inorganic fertilizer (to specify),6220.0,Market
+1409,57012.0,East,Bugesera,19.0,881.097854281,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1410,57012.0,East,Bugesera,20.0,245.461360507,0,0.0,1,Other inorganic fertilizer (to specify),1520.0,Market
+1411,57012.0,East,Bugesera,21.0,794.452284169,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1412,57012.0,East,Bugesera,23.0,5755.53289421,0,0.0,1,Other inorganic fertilizer (to specify),10600.0,Market
+1413,57012.0,East,Bugesera,24.0,1343.38588036,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1414,57013.0,East,Bugesera,1.0,507843.977746,0,0.0,0,N/Ainorganic fertilizer type,0.0,N/Asource inorganic fertilizer
+1415,57014.0,East,Bugesera,1.0,567602.5,0,0.0,1,Urea,3500.0,Government(MINAGRI/RAB/NAEB/District
+1416,57014.0,East,Bugesera,1.0,567602.5,0,0.0,1,NPK 17-17-17,7000.0,Government(MINAGRI/RAB/NAEB/District
+1417,57015.0,East,Bugesera,1.0,448780.3125,1,17960.0,1,NPK 17-17-17,6000.0,Market
+1418,57015.0,East,Bugesera,1.0,448780.3125,1,17960.0,1,Urea,3000.0,Market
+1419,57016.0,East,Bugesera,1.0,4698137.5,0,0.0,1,NPK 17-17-17,18500.0,Government(MINAGRI/RAB/NAEB/District
+1420,57016.0,East,Bugesera,1.0,4698137.5,0,0.0,1,Urea,20000.0,Government(MINAGRI/RAB/NAEB/District
+1421,57017.0,East,Bugesera,3.0,35137.8470053,1,30000.0,1,Urea,350.0,Government & Market
+1422,57017.0,East,Bugesera,3.0,35137.8470053,1,30000.0,1,DAP,350.0,Government & Market
