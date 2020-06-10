@@ -12,8 +12,8 @@ def link_variable_columns(temp_data, temp_var_info):
 # %%
 
 def read_data_in(temp_data_file_name, temp_var_file_name):
-    strata_folder_path = "raw_data/"
-    var_folder_path ="variable_names/"
+    strata_folder_path = "repo_data/raw_data/"
+    var_folder_path ="repo_data/variable_names/"
     
     temp_data = pd.read_stata(strata_folder_path + temp_data_file_name + ".dta")
     temp_var_names = pd.read_excel(var_folder_path + temp_var_file_name + ".xlsx", header=None)
